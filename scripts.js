@@ -23,7 +23,7 @@ function generateMapHTML(mapsData) {
 
     resultItem.innerHTML = `
       <div class="thumbnail-container">
-        <img src="${map.image}" alt="Mapa ${map.map}" class="map-thumbnail" onclick="openModal('${map.image}', '${map.map}', this.closest('.result-item').querySelector('.hidden'))">
+        <img src="${map.image}" alt="Mapa ${map.map}" class="map-thumbnail" onclick="openModal('${map.image}', '${map.map}', this.closest('.result-item').querySelector('.hidden-objectives'))">
       </div>
       <h5>Chapter: ${map.chapter}</h5>
       <p>Path: ${map.path}</p>
@@ -52,7 +52,7 @@ function generateMapHTML(mapsData) {
 
 function toggleFilters() {
     const filterSection = document.querySelector('.filter-section');
-    footer.classList.toggle('hidden');
+    footer.classList.toggle('hidden-objectives');
     filterSection.style.display = filterSection.style.display === 'block' ? 'none' : 'block';
 }
 
@@ -88,7 +88,7 @@ function openModal(imageSrc, captionText, objectivesList) {
     const caption = document.getElementById("caption");
     const objectives = document.getElementById("objectives");
 
-    footer.classList.toggle('hidden');
+    footer.classList.toggle('hidden-objectives');
     modal.style.display = "block";
     modalImage.src = imageSrc;
     caption.innerHTML = captionText;
@@ -101,6 +101,6 @@ function openModal(imageSrc, captionText, objectivesList) {
 }
 
 function closeModal() {
-    footer.classList.toggle('hidden');
+    footer.classList.toggle('hidden-objectives');
     modal.style.display = "none";
 }
