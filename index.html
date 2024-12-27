@@ -37,7 +37,6 @@
             <option value="">All</option>
             <option value="Raid on the Imagawa">Raid on the Imagawa</option>
             <option value="Defense of Echizen">Defense of Echizen</option>
-            <!-- Adicione mais opções conforme necessário -->
         </select>
         
         <h4>Rare Weapon</h4>
@@ -45,14 +44,13 @@
             <option value="">All</option>
             <option value="Odachi">Odachi</option>
             <option value="Sword + Matchlock">Sword + Matchlock</option>
-            <!-- Adicione mais opções conforme necessário -->
         </select>
     </div>
 
     <div class="results">
         <div class="result-item" data-chapter="1" data-path="Nobunaga" data-map="Raid on the Imagawa">
             <div class="thumbnail-container">
-                <img src="imagem" alt="Mapa Raid on the Imagawa" class="map-thumbnail" onclick="openModal('imagem', 'Raid on the Imagawa', this.closest('.result-item').querySelector('.hidden'))">
+                <img src="maps/1-nobunaga-raid-on-the-imagawa.png" alt="Mapa Raid on the Imagawa" class="map-thumbnail" onclick="openModal('maps/1-nobunaga-raid-on-the-imagawa.png', 'Raid on the Imagawa', this.closest('.result-item').querySelector('.hidden'))">
             </div>
             <h5>Chapter: 1</h5>
             <p>Path: Nobunaga</p>
@@ -65,16 +63,36 @@
             </div>
             <p>Rare Weapon: No</p>
             <ul class="hidden">
-                <li>1.The Battle Begins: Defeat the enemy troops!</li>
-                <li>2.Heihachirō's Brave Fight: Defeat Tadakatsu Honda!</li>
-                <li>3.Imagawa Reinforcements: Defeat Motonobu Okabe and Yasuyoshi Asahina!</li>
-                <li>4.The Ninja and the Noblewoman: Defeat Sena and Hanzō Hattori to prevent Nobuyuki Oda and Katsuie Shibata from being taken out!</li>
-                <li>5.Mikawa Wavers: Defeat Hirotada Matsudaira and Masanari Naito!</li>
+                <li>
+                    <span class="number">1.</span>
+                    <span class="name">The Battle Begins:</span>
+                    <span class="description">Defeat the enemy troops!</span>
+                </li>
+                <li>
+                    <span class="number">2.</span>
+                    <span class="name">Heihachirō's Brave Fight:</span>
+                    <span class="description">Defeat Tadakatsu Honda!</span>
+                </li>
+                <li>
+                    <span class="number">3.</span>
+                    <span class="name">Imagawa Reinforcements:</span>
+                    <span class="description">Defeat Motonobu Okabe and Yasuyoshi Asahina!</span>
+                </li>
+                <li>
+                    <span class="number">4.</span>
+                    <span class="name">The Ninja and the Noblewoman:</span>
+                    <span class="description">Defeat Sena and Hanzō Hattori to prevent Nobuyuki Oda and Katsuie Shibata from being taken out!</span>
+                </li>
+                <li>
+                    <span class="number">5.</span>
+                    <span class="name">Mikawa Wavers:</span>
+                    <span class="description">Defeat Hirotada Matsudaira and Masanari Naito!</span>
+                </li>
             </ul>
         </div>
         <div class="result-item" data-chapter="1" data-path="Nobunaga" data-map="Assault on Mino">
             <div class="thumbnail-container">
-                <img src="imagem" alt="Mapa Assault on Mino" class="map-thumbnail" onclick="openModal('imagem', 'Assault on Mino', this.closest('.result-item').querySelector('.hidden'))">
+                <img src="maps/1-nobunaga-assault-on-mino.png" alt="Mapa Assault on Mino" class="map-thumbnail" onclick="openModal('maps/1-nobunaga-assault-on-mino.png', 'Assault on Mino', this.closest('.result-item').querySelector('.hidden'))">
             </div>
             <h5>Chapter: 1</h5>
             <p>Path: Nobunaga</p>
@@ -85,29 +103,62 @@
                     <li>Nobunaga Oda</li>
                 </ul>
             </div>
-            <p>Arma Rara: Não</p>
+            <p>Rare Weapon: No</p>
             <ul class="hidden">
-                <li>Derrote Michikatsu Inoue para capturar a Guarnição Central!</li>
-                <li>Derrote Mitsuhide Akechi!</li>
-                <li>Derrote Toshimitsu Saitō para proteger o Acampamento Principal Oda!</li>
-                <li>Derrote Ittetsu Inaba, Morinari Andō e Bokuzen Uliie!</li>
-                <li>Derrote Hanbei Takenaka!</li>
-                <li>Derrote Mitsuharu Fuwa e o corpo de tambores!</li>
-                <li>Derrote Mitsuhide Akechi!</li>
-                <li>Derrote Michitoshi Nagai e os capitães de lança!</li>
-                <li>Evite que Yoshitatsu Saitō infiltre o Acampamento Principal Oda!</li>
+                <li>
+                    <span class="number">1.</span>
+                    <span class="name">Gaining a Foothold:</span>
+                    <span class="description">Defeat Michikatsu Inoue to capture the Central Garrison!</span>
+                </li>
+                <li>
+                    <span class="number">2.</span>
+                    <span class="name">The Foolish and the Stubborn:</span>
+                    <span class="description">Defeat Mitsuhide Akechi!</span>
+                </li>
+                <li>
+                    <span class="number">3.</span>
+                    <span class="name">The Viper's Trap:</span>
+                    <span class="description">Defeat Toshimitsu Saitō to protect the Oda Main Camp!</span>
+                </li>
+                <li>
+                    <span class="number">4.</span>
+                    <span class="name">We Three of Mino:</span>
+                    <span class="description">Defeat Ittetsu Inaba, Morinari Andō and Bokuzen Uliie!</span>
+                </li>
+                <li>
+                    <span class="number">5.</span>
+                    <span class="name">The Young Strategist:</span>
+                    <span class="description">Defeat Hanbei Takenaka!</span>
+                </li>
+                <li>
+                    <span class="number">6.</span>
+                    <span class="name">Echoes on the Battlefield:</span>
+                    <span class="description">Defeat Mitsuharu Fuwa and the drum corps!</span>
+                </li>
+                <li>
+                    <span class="number">7.</span>
+                    <span class="name">Rematch:</span>
+                    <span class="description">Defeat Mitsuhide Akechi!</span>
+                </li>
+                <li>
+                    <span class="number">8.</span>
+                    <span class="name">Nobuyuki's Struggle:</span>
+                    <span class="description">Defeat Michitoshi Nagai and the spear captains!</span>
+                </li>
+                <li>
+                    <span class="number">9.</span>
+                    <span class="name">Yosgutatsu the Opportunist:</span>
+                    <span class="description">Prevent Yoshitatsu Saitō from infiltrating the Oda Main Camp!</span>
+                </li>
             </ul>
         </div>
-        <!-- Adicione mais itens conforme necessário -->
     </div>
 
-    <!-- Modal para imagem expandida -->
     <div id="image-modal" class="modal">
         <span class="close" onclick="closeModal()">&times;</span>
         <img class="modal-content" id="modal-image">
         <div id="caption"></div>
         <div id="objectives"></div>
-        <button class="close-button" onclick="closeModal()">Voltar</button>
     </div>
 
     <footer>

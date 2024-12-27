@@ -38,11 +38,10 @@ function openModal(imageSrc, captionText, objectivesList) {
     modalImage.src = imageSrc;
     caption.innerHTML = captionText;
 
-    // Verifica se objectivesList existe antes de acessar innerHTML
     if (objectivesList) {
-        objectives.innerHTML = '<h6>Objetivos:</h6>' + objectivesList.innerHTML;
+        objectives.innerHTML = '<h3>Objectives:</h3>' + objectivesList.innerHTML;
     } else {
-        objectives.innerHTML = '<h6>Objetivos:</h6><p>Nenhum objetivo disponível.</p>';
+        objectives.innerHTML = '<h5>Objectives:</h5><p>Nenhum objetivo disponível.</p>';
     }
 }
 
