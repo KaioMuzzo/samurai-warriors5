@@ -1,0 +1,46 @@
+[
+    {
+        "chapter": 1,
+        "path": "Nobunaga",
+        "map": "Raid on the Imagawa",
+        "image": "maps/1-nobunaga-raid-on-the-imagawa.png",
+        "recommendedCharacter": "Nobunaga Oda",
+        "rareWeapon": "No",
+        "objectives": [
+          {
+            "number": 1,
+            "name": "The Battle Begins",
+            "description": "Defeat the enemy troops!"
+          },
+          {
+            "number": 2,
+            "name": "Heihachirō's Brave Fight",
+            "description": "Defeat Tadakatsu Honda!"
+          },
+          {
+            "number": 3,
+            "name": "Imagawa Reinforcements",
+            "description": "Defeat Motonobu Okabe and Yasuyoshi Asahina!"
+          },
+          {
+            "number": 4,
+            "name": "The Ninja and the Noblewoman",
+            "description": "Defeat Sena and Hanzō Hattori to prevent Nobuyuki Oda and Katsuie Shibata from being taken out!"
+          },
+          {
+            "number": 5,
+            "name": "Mikawa Wavers",
+            "description": "Defeat Hirotada Matsudaira and Masanari Naito!"
+          }
+        ]
+      },
+      {
+        "chapter": 0,
+        "path": "path",
+        "map": "map",
+        "image": "maps/1-nobunaga-raid-on-the-imagawa.png",
+        "recommendedCharacter": "characters",
+        "rareWeapon": "rares",
+        "objectives": []
+      }
+]

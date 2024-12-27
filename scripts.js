@@ -1,6 +1,8 @@
+const modal = document.getElementById("image-modal");
+const footer = document.querySelector('footer');
+
 function toggleFilters() {
     const filterSection = document.querySelector('.filter-section');
-    const footer = document.querySelector('footer');
     footer.classList.toggle('hidden');
     filterSection.style.display = filterSection.style.display === 'block' ? 'none' : 'block';
 }
@@ -17,12 +19,14 @@ function filterResults() {
         const chapter = result.getAttribute('data-chapter');
         const path = result.getAttribute('data-path');
         const map = result.getAttribute('data-map');
+        const weapon = result.getAttribute('data-weapon');
 
         const chapterMatch = chapterFilter === "" || chapter === chapterFilter;
         const pathMatch = pathFilter === "" || path === pathFilter;
         const mapMatch = mapFilter === "" || map === mapFilter;
+        const weaponMatch = rareWeaponFilter === "" || weapon === rareWeaponFilter;
 
-        if (chapterMatch && pathMatch && mapMatch) {
+        if (chapterMatch && pathMatch && mapMatch && weaponMatch) {
             result.style.display = 'block';
         } else {
             result.style.display = 'none';
@@ -31,11 +35,11 @@ function filterResults() {
 }
 
 function openModal(imageSrc, captionText, objectivesList) {
-    const modal = document.getElementById("image-modal");
     const modalImage = document.getElementById("modal-image");
     const caption = document.getElementById("caption");
     const objectives = document.getElementById("objectives");
 
+    footer.classList.toggle('hidden');
     modal.style.display = "block";
     modalImage.src = imageSrc;
     caption.innerHTML = captionText;
@@ -43,11 +47,11 @@ function openModal(imageSrc, captionText, objectivesList) {
     if (objectivesList) {
         objectives.innerHTML = '<h3>Objectives:</h3>' + objectivesList.innerHTML;
     } else {
-        objectives.innerHTML = '<h5>Objectives:</h5><p>Nenhum objetivo disponível.</p>';
+        objectives.innerHTML = '<h3>Objectives:</h3><p>Nenhum objetivo disponível.</p>';
     }
 }
 
 function closeModal() {
-    const modal = document.getElementById("image-modal");
+    footer.classList.toggle('hidden');
     modal.style.display = "none";
 }
