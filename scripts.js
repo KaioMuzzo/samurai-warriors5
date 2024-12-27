@@ -35,7 +35,7 @@ function generateMapHTML(mapsData) {
         </ul>
       </div>
       <p>Rare Weapon: ${map.rareWeapon}</p>
-      <ul class="hidden">
+      <ul class="hidden-objectives">
         ${map.objectives.map(obj => `
           <li>
             <span class="number">${obj.number}.</span>
