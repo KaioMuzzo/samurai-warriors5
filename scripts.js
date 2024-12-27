@@ -33,7 +33,7 @@ function generateMapHTML(mapsData) {
         <p>${map.recommendedCharacter}</p>
       </div>
       <p>Rare Weapon: ${map.rareWeapon}</p>
-      <ul class="objectives">
+      <ul class="hidden">
         ${map.objectives.map(obj => `
           <li>
             <span class="number">${obj.number}.</span>
@@ -47,7 +47,6 @@ function generateMapHTML(mapsData) {
     container.appendChild(resultItem);
   });
 }
-
 
 function toggleFilters() {
     const filterSection = document.querySelector('.filter-section');
