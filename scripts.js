@@ -1,5 +1,7 @@
 function toggleFilters() {
     const filterSection = document.querySelector('.filter-section');
+    const footer = document.querySelector('footer');
+    footer.classList.toggle('hidden');
     filterSection.style.display = filterSection.style.display === 'block' ? 'none' : 'block';
 }
 
