@@ -1,7 +1,7 @@
 const modal = document.getElementById("image-modal");
 const footer = document.querySelector('footer');
 
-fetch('maps.json')
+fetch('./maps.json')
   .then(response => response.json())
   .then(mapsData => {
     generateMapHTML(mapsData);
