@@ -9,7 +9,7 @@ fetch('maps.json')
   .catch(error => console.error('Erro ao carregar o JSON:', error));
 
 function generateMapHTML(mapsData) {
-  const container = document.getElementById("maps-container");
+  const container = document.getElementById("results");
 
   mapsData.forEach(map => {
     const resultItem = document.createElement("div");
