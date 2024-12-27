@@ -33,14 +33,5 @@
             "description": "Defeat Hirotada Matsudaira and Masanari Naito!"
           }
         ]
-      },
-      {
-        "chapter": 0,
-        "path": "path",
-        "map": "map",
-        "image": "maps/1-nobunaga-raid-on-the-imagawa.png",
-        "recommendedCharacter": "characters",
-        "rareWeapon": "rares",
-        "objectives": []
       }
 ]

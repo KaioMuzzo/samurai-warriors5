@@ -1,6 +1,53 @@
 const modal = document.getElementById("image-modal");
 const footer = document.querySelector('footer');
 
+fetch('maps.json')
+  .then(response => response.json())
+  .then(mapsData => {
+    generateMapHTML(mapsData);
+  })
+  .catch(error => console.error('Erro ao carregar o JSON:', error));
+
+function generateMapHTML(mapsData) {
+  const container = document.getElementById("maps-container");
+
+  mapsData.forEach(map => {
+    const resultItem = document.createElement("div");
+    resultItem.classList.add("result-item");
+    resultItem.setAttribute("data-chapter", map.chapter);
+    resultItem.setAttribute("data-path", map.path);
+    resultItem.setAttribute("data-map", map.map);
+    resultItem.setAttribute("data-weapon", map.rareWeapon);
+
+    resultItem.innerHTML = `
+      <div class="thumbnail-container">
+        <img src="${map.image}" alt="Mapa ${map.map}" class="map-thumbnail" onclick="openModal('${map.image}', '${map.map}', this.closest('.result-item').querySelector('.hidden'))">
+      </div>
+      <h5>Chapter: ${map.chapter}</h5>
+      <p>Path: ${map.path}</p>
+      <p>Map: ${map.map}</p>
+      <div class="recommended-characters">
+        <h6>Recommended character:</h6>
+        <ul>
+          <li>${map.recommendedCharacter}</li>
+        </ul>
+      </div>
+      <p>Rare Weapon: ${map.rareWeapon}</p>
+      <ul class="hidden">
+        ${map.objectives.map(obj => `
+          <li>
+            <span class="number">${obj.number}.</span>
+            <span class="name">${obj.name}:</span>
+            <span class="description">${obj.description}</span>
+          </li>
+        `).join('')}
+      </ul>
+    `;
+
+    container.appendChild(resultItem);
+  });
+}
+
 function toggleFilters() {
     const filterSection = document.querySelector('.filter-section');
     footer.classList.toggle('hidden');
