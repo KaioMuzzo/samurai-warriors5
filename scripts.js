@@ -11,6 +11,8 @@ fetch('./maps.json')
 function generateMapHTML(mapsData) {
   const container = document.getElementById("results");
 
+  container.innerHTML = "";
+
   mapsData.forEach(map => {
     const resultItem = document.createElement("div");
     resultItem.classList.add("result-item");
@@ -21,19 +23,17 @@ function generateMapHTML(mapsData) {
 
     resultItem.innerHTML = `
       <div class="thumbnail-container">
-        <img src="${map.image}" alt="Mapa ${map.map}" class="map-thumbnail" onclick="openModal('${map.image}', '${map.map}', this.closest('.result-item').querySelector('.hidden'))">
+        <img src="${map.image}" alt="Mapa ${map.map}" class="map-thumbnail" onclick="openModal('${map.image}', '${map.map}', '${JSON.stringify(map.objectives)}')">
       </div>
       <h5>Chapter: ${map.chapter}</h5>
       <p>Path: ${map.path}</p>
       <p>Map: ${map.map}</p>
       <div class="recommended-characters">
         <h6>Recommended character:</h6>
-        <ul>
-          <li>${map.recommendedCharacter}</li>
-        </ul>
+        <p>${map.recommendedCharacter}</p>
       </div>
       <p>Rare Weapon: ${map.rareWeapon}</p>
-      <ul class="hidden">
+      <ul class="objectives">
         ${map.objectives.map(obj => `
           <li>
             <span class="number">${obj.number}.</span>
@@ -47,6 +47,7 @@ function generateMapHTML(mapsData) {
     container.appendChild(resultItem);
   });
 }
+
 
 function toggleFilters() {
     const filterSection = document.querySelector('.filter-section');
