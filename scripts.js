@@ -1,4 +1,3 @@
-const modal = document.getElementById("image-modal");
 const footer = document.querySelector('footer');
 
 fetch('./maps.json')
@@ -20,6 +19,8 @@ function generateMapHTML(mapsData) {
     resultItem.setAttribute("data-path", map.path);
     resultItem.setAttribute("data-map", map.map);
     resultItem.setAttribute("data-weapon", map.rareWeapon);
+
+    console.log("ObjectivesList:", objectivesList);
 
     resultItem.innerHTML = `
       <div class="thumbnail-container">
@@ -52,7 +53,7 @@ function generateMapHTML(mapsData) {
 
 function toggleFilters() {
     const filterSection = document.querySelector('.filter-section');
-    footer.classList.toggle('.hidden-objectives');
+    footer.classList.toggle('hidden');
     filterSection.style.display = filterSection.style.display === 'block' ? 'none' : 'block';
 }
 
@@ -84,11 +85,12 @@ function filterResults() {
 }
 
 function openModal(imageSrc, captionText, objectivesList) {
+    const modal = document.getElementById("image-modal");
     const modalImage = document.getElementById("modal-image");
     const caption = document.getElementById("caption");
     const objectives = document.getElementById("objectives");
 
-    footer.classList.toggle('.hidden-objectives');
+    footer.classList.toggle('hidden');
     modal.style.display = "block";
     modalImage.src = imageSrc;
     caption.innerHTML = captionText;
@@ -101,6 +103,6 @@ function openModal(imageSrc, captionText, objectivesList) {
 }
 
 function closeModal() {
-    footer.classList.toggle('.hidden-objectives');
+    footer.classList.toggle('hidden');
     modal.style.display = "none";
 }
