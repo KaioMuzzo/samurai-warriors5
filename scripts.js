@@ -22,7 +22,7 @@ function generateMapHTML(mapsData) {
 
     resultItem.innerHTML = `
       <div class="thumbnail-container">
-        <img src="${map.image}" alt="Mapa ${map.map}" class="map-thumbnail" onclick="openModal('${map.image}', '${map.map}', this.closest('.result-item').querySelector('hidden-objectives'))">
+        <img src="${map.image}" alt="Mapa ${map.map}" class="map-thumbnail" onclick="openModal('${map.image}', '${map.map}', this.closest('.result-item').querySelector('.hidden-objectives'))">
       </div>
       <h5>Chapter: ${map.chapter}</h5>
       <p>Path: ${map.path}</p>
@@ -101,6 +101,7 @@ function openModal(imageSrc, captionText, objectivesList) {
 }
 
 function closeModal() {
+    const modal = document.getElementById("image-modal");
     footer.classList.toggle('hidden');
     modal.style.display = "none";
 }
