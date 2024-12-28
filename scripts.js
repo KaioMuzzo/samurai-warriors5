@@ -1,5 +1,3 @@
-const footer = document.querySelector('footer');
-
 fetch('./maps.json')
   .then(response => response.json())
   .then(mapsData => {
@@ -51,7 +49,6 @@ function generateMapHTML(mapsData) {
 
 function toggleFilters() {
     const filterSection = document.querySelector('.filter-section');
-    footer.classList.toggle('hidden');
     filterSection.style.display = filterSection.style.display === 'block' ? 'none' : 'block';
 }
 
@@ -72,10 +69,9 @@ function filterResults() {
         const chapterMatch = chapterFilter === "" || chapter === chapterFilter;
         const pathMatch = pathFilter === "" || path === pathFilter;
         const mapMatch = mapFilter === "" || map === mapFilter;
-        //const weaponMatch = rareWeaponFilter === "" || weapon === rareWeaponFilter;
-        console.log("caminho do card", path);
-        console.log("caminho do filtro", pathFilter);
-        if (chapterMatch && pathMatch && mapMatch) {
+        const weaponMatch = rareWeaponFilter === "" || weapon.toLowerCase().includes(rareWeaponFilter.toLowerCase());
+
+        if (chapterMatch && pathMatch && mapMatch && weaponMatch) {
             result.style.display = 'block';
         } else {
             result.style.display = 'none';
@@ -89,7 +85,6 @@ function openModal(imageSrc, captionText, objectivesList) {
     const caption = document.getElementById("caption");
     const objectives = document.getElementById("objectives");
 
-    footer.classList.toggle('hidden');
     modal.style.display = "block";
     modalImage.src = imageSrc;
     caption.innerHTML = captionText;
@@ -103,6 +98,5 @@ function openModal(imageSrc, captionText, objectivesList) {
 
 function closeModal() {
     const modal = document.getElementById("image-modal");
-    footer.classList.toggle('hidden');
     modal.style.display = "none";
 }

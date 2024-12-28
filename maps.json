@@ -3,7 +3,7 @@
         "chapter": 1,
         "path": "Nobunaga",
         "map": "Raid on the Imagawa",
-        "image": "maps/1-nobunaga-raid-on-the-imagawa.png",
+        "image": "maps/1-nobunaga-raid-on-the-imagawa.jpg",
         "recommendedCharacter": "Nobunaga Oda",
         "rareWeapon": "No",
         "objectives": [
@@ -18,7 +18,7 @@
         "chapter": 1, 
         "path": "Nobunaga", 
         "map": "Assault on Mino", 
-        "image": "maps/1-nobunaga-assault-on-mino.png", 
+        "image": "maps/1-nobunaga-assault-on-mino.jpg", 
         "recommendedCharacter": "Nobunaga Oda", 
         "rareWeapon": "No", 
         "objectives": [
@@ -37,7 +37,7 @@
         "chapter": 1, 
         "path": "Nobunaga", 
         "map": "Turmoil on Mt. Inaba", 
-        "image": "maps/1-nobunaga-turmoil-on-mt.-inaba.png", 
+        "image": "maps/1-nobunaga-turmoil-on-mt.-inaba.jpg", 
         "recommendedCharacter": "Nobunaga Oda", 
         "rareWeapon": "No", 
         "objectives": [
@@ -55,7 +55,7 @@
         "chapter": 1, 
         "path": "Nobunaga", 
         "map": "Battle of Muraki Garrison", 
-        "image": "maps/1-nobunaga-battle-of-muraki-garrison.png", 
+        "image": "maps/1-nobunaga-battle-of-muraki-garrison.jpg", 
         "recommendedCharacter": "Ieyasu Tokugawa/Toshie Maeda",
         "rareWeapon": "No",
         "objectives": [
@@ -73,7 +73,7 @@
         "chapter": 1, 
         "path": "Nobunaga", 
         "map": "Battle of Nagara River", 
-        "image": "maps/1-nobunaga-battle-of-nagara-river.png", 
+        "image": "maps/1-nobunaga-battle-of-nagara-river.jpg", 
         "recommendedCharacter": "Nobunaga Oda", 
         "rareWeapon": "No",
         "objectives": [
@@ -94,7 +94,7 @@
         "chapter": 1, 
         "path": "Mitsuhide", 
         "map": "Defense of Mino", 
-        "image": "maps/1-mitsuhide-defense-of-mino.png", 
+        "image": "maps/1-mitsuhide-defense-of-mino.jpg", 
         "recommendedCharacter": "Mitsuhide Akechi", 
         "rareWeapon": "No", 
         "objectives": [
@@ -115,7 +115,7 @@
         "chapter": 1, 
         "path": "Mitsuhide", 
         "map": "Turmoil on Mt. Inaba", 
-        "image": "maps/1-mitsuhide-turmoil-on-mt.-inaba.png", 
+        "image": "maps/1-mitsuhide-turmoil-on-mt.-inaba.jpg", 
         "recommendedCharacter": "Mitsuhide Akechi", 
         "rareWeapon": "No", 
         "objectives": [
@@ -133,7 +133,7 @@
         "chapter": 1, 
         "path": "Mitsuhide", 
         "map": "Battle of Nagara River", 
-        "image": "maps/1-mitsuhide-battle-of-nagara-river.png", 
+        "image": "maps/1-mitsuhide-battle-of-nagara-river.jpg", 
         "recommendedCharacter": "Mitsuhide Akechi", 
         "rareWeapon": "No", 
         "objectives": [
@@ -154,7 +154,7 @@
         "chapter": 1, 
         "path": "Mitsuhide", 
         "map": "Battle of Akechi Castle*", 
-        "image": "maps/1-mitsuhide-battle-of-akechi-castle.png", 
+        "image": "maps/1-mitsuhide-battle-of-akechi-castle.jpg", 
         "recommendedCharacter": "Toshimitsu Saitō/Mitsuhide Akechi", 
         "rareWeapon": "Spear", 
         "objectives": [
@@ -175,7 +175,7 @@
         "chapter": 2, 
         "path": "Nobunaga", 
         "map": "Battle of Inō*", 
-        "image": "maps/2-nobunaga-battle-of-ino.png", 
+        "image": "maps/2-nobunaga-battle-of-ino.jpg", 
         "recommendedCharacter": "Nobunaga Oda/Hideyoshi Hashiba", 
         "rareWeapon": "Great Spear", 
         "objectives": [
@@ -195,7 +195,7 @@
         "chapter": 2, 
         "path": "Nobunaga", 
         "map": "Mayhem in Mikawa*", 
-        "image": "maps/2-nobunaga-mayhem-in-mikawa.png", 
+        "image": "maps/2-nobunaga-mayhem-in-mikawa.jpg", 
         "recommendedCharacter": "Ieyasu Tokugawa/Hanzō Hattori", 
         "rareWeapon": "Sledge Hammer", 
         "objectives": [
@@ -214,7 +214,7 @@
         "chapter": 2, 
         "path": "Nobunaga", 
         "map": "Battle of Okehazama", 
-        "image": "maps/2-nobunaga-battle-of-okehazama.png", 
+        "image": "maps/2-nobunaga-battle-of-okehazama.jpg", 
         "recommendedCharacter": "Nobunaga Oda", 
         "rareWeapon": "No", 
         "objectives": [
@@ -234,7 +234,7 @@
         "chapter": 2, 
         "path": "Nobunaga", 
         "map": "Battle of Inabayama Castle", 
-        "image": "maps/2-nobunaga-battle-of-inabayama-castle.png", 
+        "image": "maps/2-nobunaga-battle-of-inabayama-castle.jpg", 
         "recommendedCharacter": "Nobunaga Oda/Nō", 
         "rareWeapon": "No", 
         "objectives": [
@@ -253,7 +253,7 @@
         "chapter": 2, 
         "path": "Nobunaga", 
         "map": "Battle to Build Sunomata Castle*", 
-        "image": "maps/2-nobunaga-battle-to-build-sunomata-castle.png", 
+        "image": "maps/2-nobunaga-battle-to-build-sunomata-castle.jpg", 
         "recommendedCharacter": "Hideyoshi Hashiba/Sandayū Momochi", 
         "rareWeapon": "Drums", 
         "objectives": [
@@ -271,7 +271,7 @@
         "chapter": 2, 
         "path": "Mitsuhide", 
         "map": "Defense of Echizen", 
-        "image": "maps/2-mitsuhide-defense-of-echizen.png", 
+        "image": "maps/2-mitsuhide-defense-of-echizen.jpg", 
         "recommendedCharacter": "Mitsuhide Akechi", 
         "rareWeapon": "No", 
         "objectives": [
@@ -290,7 +290,7 @@
         "chapter": 2, 
         "path": "Mitsuhide", 
         "map": "Battle of Gassantoda Castle", 
-        "image": "maps/2-mitsuhide-battle-of-gassantoda-castle.png", 
+        "image": "maps/2-mitsuhide-battle-of-gassantoda-castle.jpg", 
         "recommendedCharacter": "Mitsuhide Akechi/Shikanosuke Yamanaka", 
         "rareWeapon": "No", 
         "objectives": [
@@ -311,7 +311,7 @@
         "chapter": 2, 
         "path": "Mitsuhide", 
         "map": "Joint Struggle with the Uesugi*", 
-        "image": "maps/2-mitsuhide-joint-struggle-with-the-uesugi.png", 
+        "image": "maps/2-mitsuhide-joint-struggle-with-the-uesugi.jpg", 
         "recommendedCharacter": "Kenshin Uesugi/Mitsuhide Akechi", 
         "rareWeapon": "Odachi", 
         "objectives": [
@@ -332,7 +332,7 @@
         "chapter": 3, 
         "path": "Nobunaga", 
         "map": "Battle of Northern Ōmi", 
-        "image": "maps/3-nobunaga-battle-of-northern-omi.png", 
+        "image": "maps/3-nobunaga-battle-of-northern-omi.jpg", 
         "recommendedCharacter": "Nobunaga Oda", 
         "rareWeapon": "No", 
         "objectives": [
@@ -353,7 +353,7 @@
         "chapter": 3, 
         "path": "Nobunaga", 
         "map": "Battle of Kannonji Castle*", 
-        "image": "maps/3-nobunaga-battle-of-kannonji-castle.png", 
+        "image": "maps/3-nobunaga-battle-of-kannonji-castle.jpg", 
         "recommendedCharacter": "Oichi/Nobunaga Oda", 
         "rareWeapon": "Talisman", 
         "objectives": [
@@ -377,7 +377,7 @@
         "chapter": 3, 
         "path": "Nobunaga", 
         "map": "Invasion of Suruga*", 
-        "image": "maps/3-nobunaga-invasion-of-suruga.png", 
+        "image": "maps/3-nobunaga-invasion-of-suruga.jpg", 
         "recommendedCharacter": "Sena/Shigen Takeda", 
         "rareWeapon": "Naginata", 
         "objectives": [
@@ -397,7 +397,7 @@
         "chapter": 3, 
         "path": "Nobunaga", 
         "map": "Battle of Rokujō", 
-        "image": "maps/3-nobunaga-battle-of-rokujo.png", 
+        "image": "maps/3-nobunaga-battle-of-rokujo.jpg", 
         "recommendedCharacter": "Nobunaga Oda/Oichi", 
         "rareWeapon": "No", 
         "objectives": [
@@ -416,7 +416,7 @@
         "chapter": 3, 
         "path": "Mitsuhide", 
         "map": "Battle of Northern Ōmi", 
-        "image": "maps/3-mitsuhide-battle-of-northern-omi.png", 
+        "image": "maps/3-mitsuhide-battle-of-northern-omi.jpg", 
         "recommendedCharacter": "Mitsuhide Akechi", 
         "rareWeapon": "No", 
         "objectives": [
@@ -436,7 +436,7 @@
         "chapter": 3, 
         "path": "Mitsuhide", 
         "map": "Battle of Kannonji Castle", 
-        "image": "maps/3-mitsuhide-battle-of-kannonji-castle.png", 
+        "image": "maps/3-mitsuhide-battle-of-kannonji-castle.jpg", 
         "recommendedCharacter": "Mitsuhide Akechi/Oichi", 
         "rareWeapon": "No", 
         "objectives": [
@@ -460,7 +460,7 @@
         "chapter": 3, 
         "path": "Mitsuhide", 
         "map": "Revival of the Amago Clan", 
-        "image": "maps/3-mitsuhide-revival-of-the-amago-clan.png", 
+        "image": "maps/3-mitsuhide-revival-of-the-amago-clan.jpg", 
         "recommendedCharacter": "Shikasuke Yamanaka/Mitsuhide Akechi", 
         "rareWeapon": "No", 
         "objectives": [
@@ -479,7 +479,7 @@
         "chapter": 3, 
         "path": "Mitsuhide", 
         "map": "Battle of Rokujō", 
-        "image": "maps/3-mitsuhide-battle-of-rokujo.png", 
+        "image": "maps/3-mitsuhide-battle-of-rokujo.jpg", 
         "recommendedCharacter": "Mitsuki/Hisahide Matsunaga", 
         "rareWeapon": "No", 
         "objectives": [
@@ -498,7 +498,7 @@
     { 
         "chapter": 4, "path": "Nobunaga", 
         "map": "Battle of Kanegasaki", 
-        "image": "maps/4-nobunaga-battle-of-kanegasaki.png", 
+        "image": "maps/4-nobunaga-battle-of-kanegasaki.jpg", 
         "recommendedCharacter": "Nobunaga Oda/Hisahide Matsunaga",
         "rareWeapon": "No", 
         "objectives": [
@@ -518,7 +518,7 @@
         "chapter": 4, 
         "path": "Nobunaga", 
         "map": "Battle of Anegawa River*", 
-        "image": "maps/4-nobunaga-battle-of-anegawa-river.png", 
+        "image": "maps/4-nobunaga-battle-of-anegawa-river.jpg", 
         "recommendedCharacter": "Mitsuki/Kazuuji Nakamura", 
         "rareWeapon": "Gloves", 
         "objectives": [
@@ -539,7 +539,7 @@
         "chapter": 4, 
         "path": "Nobunaga", 
         "map": "The Scorching of Mt. Hiei", 
-        "image": "maps/4-nobunaga-the-scorching-of-mt.-hiei.png", 
+        "image": "maps/4-nobunaga-the-scorching-of-mt.-hiei.jpg", 
         "recommendedCharacter": "Nobunaga Oda/Kazuuji Nakamura", 
         "rareWeapon": "No", 
         "objectives": [
@@ -560,7 +560,7 @@
         "chapter": 4, 
         "path": "Nobunaga", 
         "map": "Battle of Mikatagahara*", 
-        "image": "maps/4-nobunaga-battle-of-mikatagahara.png", 
+        "image": "maps/4-nobunaga-battle-of-mikatagahara.jpg", 
         "recommendedCharacter": "Ieyasu Tokugawa/Tadakatsu Honda", 
         "rareWeapon": "Ninjato", 
         "objectives": [
@@ -580,7 +580,7 @@
         "chapter": 4, 
         "path": "Nobunaga", 
         "map": "Battle of Makishima Castle", 
-        "image": "maps/4-nobunaga-battle-of-makishima-castle.png", 
+        "image": "maps/4-nobunaga-battle-of-makishima-castle.jpg", 
         "recommendedCharacter": "Nobunaga Oda/Kazuuji Nakamura", 
         "rareWeapon": "No", 
         "objectives": [
@@ -600,7 +600,7 @@
         "chapter": 4, 
         "path": "Nobunaga", 
         "map": "Battle of Mikatagahara (Takeda Army)*", 
-        "image": "maps/4-nobunaga-battle-of-mikatagahara-(takeda-army).png", 
+        "image": "maps/4-nobunaga-battle-of-mikatagahara-(takeda-army).jpg", 
         "recommendedCharacter": "Shingen Takeda/Katsuyori Takeda", 
         "rareWeapon": "Great Spear", 
         "objectives": [
@@ -621,7 +621,7 @@
         "chapter": 4, 
         "path": "Nobunaga", 
         "map": "Battle of Tonezaka", 
-        "image": "maps/4-nobunaga-battle-of-tonezaka.png", 
+        "image": "maps/4-nobunaga-battle-of-tonezaka.jpg", 
         "recommendedCharacter": "Mitsuhide Akeci/Mitsuki", 
         "rareWeapon": "No", 
         "objectives": [
@@ -642,7 +642,7 @@
         "chapter": 4, 
         "path": "Nobunaga", 
         "map": "Battle of Odani Castle", 
-        "image": "maps/4-nobunaga-battle-of-odani-castle.png", 
+        "image": "maps/4-nobunaga-battle-of-odani-castle.jpg", 
         "recommendedCharacter": "Mitsuhide Akechi/Toshiie Maeda", 
         "rareWeapon": "No", 
         "objectives": [
@@ -666,7 +666,7 @@
         "chapter": 4, 
         "path": "Mitsuhide", 
         "map": "Battle of Kanegasaki", 
-        "image": "maps/4-mitsuhide-battle-of-kanegasaki.png", 
+        "image": "maps/4-mitsuhide-battle-of-kanegasaki.jpg", 
         "recommendedCharacter": "Mitsuhide Akechi/Toshimitsi Saitō", 
         "rareWeapon": "No", 
         "objectives": [
@@ -686,7 +686,7 @@
         "chapter": 4, 
         "path": "Mitsuhide", 
         "map": "The Scorching of Mt. Hiei", 
-        "image": "maps/4-mitsuhide-the-scorching-of-mt.-hiei.png", 
+        "image": "maps/4-mitsuhide-the-scorching-of-mt.-hiei.jpg", 
         "recommendedCharacter": "Mitsuhide Akechi/Nobunaga Oda", 
         "rareWeapon": "No", 
         "objectives": [
@@ -707,7 +707,7 @@
         "chapter": 4, 
         "path": "Mitsuhide", 
         "map": "Battle of Makishima Castle", 
-        "image": "maps/4-mitsuhide-battle-of-makishima-castle.png", 
+        "image": "maps/4-mitsuhide-battle-of-makishima-castle.jpg", 
         "recommendedCharacter": "Mitsuhide Akechi/Toshimitsu Saitō", 
         "rareWeapon": "No", 
         "objectives": [
@@ -726,7 +726,7 @@
         "chapter": 4, 
         "path": "Mitsuhide", 
         "map": "Battle of Tonezaka", 
-        "image": "maps/4-mitsuhide-battle-of-tonezaka.png", 
+        "image": "maps/4-mitsuhide-battle-of-tonezaka.jpg", 
         "recommendedCharacter": "Mitsuki/Mitsuhide Akechi", 
         "rareWeapon": "No", 
         "objectives": [
@@ -747,7 +747,7 @@
         "chapter": 4, 
         "path": "Mitsuhide", 
         "map": "Battle of Odani Castle", 
-        "image": "maps/4-mitsuhide-battle-of-odani-castle.png", 
+        "image": "maps/4-mitsuhide-battle-of-odani-castle.jpg", 
         "recommendedCharacter": "Mitsuhide Akechi/Toshiie Maeda", 
         "rareWeapon": "No", 
         "objectives": [
@@ -771,7 +771,7 @@
         "chapter": 5, 
         "path": "Nobunaga", 
         "map": "Battle of Nagashino", 
-        "image": "maps/5-nobunaga-battle-of-nagashino.png", 
+        "image": "maps/5-nobunaga-battle-of-nagashino.jpg", 
         "recommendedCharacter": "Nobunaga Oda/Katsuie Shibata", 
         "rareWeapon": "No", 
         "objectives": [
@@ -793,7 +793,7 @@
         "chapter": 5, 
         "path": "Nobunaga", 
         "map": "Battle of Shigisan Castle", 
-        "image": "maps/5-nobunaga-battle-of-shigisan-castle.png", 
+        "image": "maps/5-nobunaga-battle-of-shigisan-castle.jpg", 
         "recommendedCharacter": "Nobunaga Oda/Mitsuhide Akechi", 
         "rareWeapon": "No", 
         "objectives": [
@@ -813,7 +813,7 @@
         "chapter": 5, 
         "path": "Nobunaga", 
         "map": "Battle of Tetorigawa*", 
-        "image": "maps/5-nobunaga-battle-of-tetorigawa.png", 
+        "image": "maps/5-nobunaga-battle-of-tetorigawa.jpg", 
         "recommendedCharacter": "Katsuie Shibata/Toshiie Maeda", 
         "rareWeapon": "Spear", 
         "objectives": [
@@ -835,7 +835,7 @@
         "chapter": 5, 
         "path": "Nobunaga", 
         "map": "Battle of Kizugawaguchi*", 
-        "image": "maps/5-nobunaga-battle-of-kizugawaguchi.png", 
+        "image": "maps/5-nobunaga-battle-of-kizugawaguchi.jpg", 
         "recommendedCharacter": "Kazjuui Nakamura/Hanbei Takenaka", 
         "rareWeapon": "Cannon", 
         "objectives": [
@@ -855,7 +855,7 @@
         "chapter": 5, 
         "path": "Nobunaga", 
         "map": "The Subjugation of Harima", 
-        "image": "maps/5-nobunaga-the-subjugation-of-harima.png", 
+        "image": "maps/5-nobunaga-the-subjugation-of-harima.jpg", 
         "recommendedCharacter": "Nobunaga Oda/Mitsuhide Akechi", 
         "rareWeapon": "No", 
         "objectives": [
@@ -875,7 +875,7 @@
         "chapter": 5, 
         "path": "Nobunaga", 
         "map": "Battle of Arioka Castle*", 
-        "image": "maps/5-nobunaga-battle-of-arioka-castle.png", 
+        "image": "maps/5-nobunaga-battle-of-arioka-castle.jpg", 
         "recommendedCharacter": "Hanebi Takenake/Kazuuji Nakamura", 
         "rareWeapon": "Drums", 
         "objectives": [
@@ -897,7 +897,7 @@
         "chapter": 5, 
         "path": "Nobunaga", 
         "map": "The Nobuyasu Affair*", 
-        "image": "maps/5-nobunaga-the-nobuyasu-affair.png", 
+        "image": "maps/5-nobunaga-the-nobuyasu-affair.jpg", 
         "recommendedCharacter": "Ieyasu Tokugawa/Hanzō Hattori", 
         "rareWeapon": "Twin Blades", 
         "objectives": [
@@ -916,7 +916,7 @@
         "chapter": 5, 
         "path": "Mitsuhide", 
         "map": "Invasion of Tanba", 
-        "image": "maps/5-mitsuhide-invasion-of-tanba.png", 
+        "image": "maps/5-mitsuhide-invasion-of-tanba.jpg", 
         "recommendedCharacter": "Mitsuhide Akechi", 
         "rareWeapon": "No", 
         "objectives": [
@@ -937,7 +937,7 @@
         "chapter": 5, 
         "path": "Mitsuhide", 
         "map": "Escape from Odaka Castle", 
-        "image": "maps/5-mitsuhide-escape-from-odaka-castle.png", 
+        "image": "maps/5-mitsuhide-escape-from-odaka-castle.jpg", 
         "recommendedCharacter": "Shikasuke Yamanaka", 
         "rareWeapon": "No", 
         "objectives": [
@@ -958,7 +958,7 @@
         "chapter": 5, 
         "path": "Mitsuhide", 
         "map": "Battle of Shigisan Castle", 
-        "image": "maps/5-mitsuhide-battle-of-shigisan-castle.png", 
+        "image": "maps/5-mitsuhide-battle-of-shigisan-castle.jpg", 
         "recommendedCharacter": "Nobunaga Oda/Mitsuhide Akechi", 
         "rareWeapon": "No", 
         "objectives": [
@@ -978,7 +978,7 @@
         "chapter": 5, 
         "path": "Mitsuhide", 
         "map": "Battle of Shigisan Castle (Mastunaga Army)*", 
-        "image": "maps/5-mitsuhide-battle-of-shigisan-castle-(mastunaga-army).png", 
+        "image": "maps/5-mitsuhide-battle-of-shigisan-castle-(mastunaga-army).jpg", 
         "recommendedCharacter": "Hisahide Matsunaga", 
         "rareWeapon": "Kusarigama", 
         "objectives": [
@@ -998,7 +998,7 @@
         "chapter": 5, 
         "path": "Mitsuhide", 
         "map": "Battle of Kōzuki Castle", 
-        "image": "maps/5-mitsuhide-battle-of-kozuki-castle.png", 
+        "image": "maps/5-mitsuhide-battle-of-kozuki-castle.jpg", 
         "recommendedCharacter": "Mitsuhide Akechi/Toshimitsu Saitō", 
         "rareWeapon": "No", 
         "objectives": [
@@ -1016,7 +1016,7 @@
         "chapter": 5, 
         "path": "Mitsuhide", 
         "map": "Battle of Kōzuki Castle (Mōri Army)*", 
-        "image": "maps/5-mitsuhide-battle-of-kozuki-castle-(mori-army).png", 
+        "image": "maps/5-mitsuhide-battle-of-kozuki-castle-(mori-army).jpg", 
         "recommendedCharacter": "Motonari Mōri/Takakage Kobayakawa", 
         "rareWeapon": "Katana/Bow", 
         "objectives": [
@@ -1036,7 +1036,7 @@
         "chapter": 5, 
         "path": "Mitsuhide", 
         "map": "The Subjugation of Harima", 
-        "image": "maps/5-mitsuhide-the-subjugation-of-harima.png", 
+        "image": "maps/5-mitsuhide-the-subjugation-of-harima.jpg", 
         "recommendedCharacter": "Mitsuhide Akechi/Toshimitsu Saitō", 
         "rareWeapon": "No", 
         "objectives": [
@@ -1056,7 +1056,7 @@
         "chapter": 5, 
         "path": "Mitsuhide", 
         "map": "The Iga's Revolt", 
-        "image": "maps/5-mitsuhide-the-igas-revolt.png", 
+        "image": "maps/5-mitsuhide-the-igas-revolt.jpg", 
         "recommendedCharacter": "Mitsuhide Akechi/Toshimitsu Saitō", 
         "rareWeapon": "No", 
         "objectives": [
@@ -1076,7 +1076,7 @@
         "chapter": 6, 
         "path": "Nobunaga", 
         "map": "Battle of Takatenjin Castle", 
-        "image": "maps/6-nobunaga-battle-of-takatenjin-castle.png", 
+        "image": "maps/6-nobunaga-battle-of-takatenjin-castle.jpg", 
         "recommendedCharacter": "Nobunaga Oda/Ieyasu Tokugawa", 
         "rareWeapon": "No", 
         "objectives": [
@@ -1096,7 +1096,7 @@
         "chapter": 6, 
         "path": "Nobunaga", 
         "map": "Conquest of Kai*", 
-        "image": "maps/6-nobunaga-conquest-of-kai.png", 
+        "image": "maps/6-nobunaga-conquest-of-kai.jpg", 
         "recommendedCharacter": "Nobunaga Oda/Hanzō Hattori", 
         "rareWeapon": "Gloves", 
         "objectives": [
@@ -1117,7 +1117,7 @@
         "chapter": 6, 
         "path": "Nobunaga", 
         "map": "The Incident at Honnōji*", 
-        "image": "maps/6-nobunaga-the-incident-at-honnoji.png", 
+        "image": "maps/6-nobunaga-the-incident-at-honnoji.jpg", 
         "recommendedCharacter": "Nobunaga Oda/Yasuke", 
         "rareWeapon": "Odachi", 
         "objectives": [
@@ -1139,7 +1139,7 @@
         "chapter": 6, 
         "path": "Nobunaga", 
         "map": "Battle of Takamatsu Castle*", 
-        "image": "maps/6-nobunaga-battle-of-takamatsu-castle.png", 
+        "image": "maps/6-nobunaga-battle-of-takamatsu-castle.jpg", 
         "recommendedCharacter": "Kanbei Kuroda/Kazuuji Nakamura", 
         "rareWeapon": "Talisman", 
         "objectives": [
@@ -1158,7 +1158,7 @@
         "chapter": 6, 
         "path": "Nobunaga", 
         "map": "Journey through Iga*", 
-        "image": "maps/6-nobunaga-journey-through-iga.png", 
+        "image": "maps/6-nobunaga-journey-through-iga.jpg", 
         "recommendedCharacter": "Hanzō Hattori", 
         "rareWeapon": "Ninjato", 
         "objectives": [
@@ -1178,7 +1178,7 @@
         "chapter": 6, 
         "path": "Mitsuhide", 
         "map": "The Incident at Honnōji", 
-        "image": "maps/6-mitsuhide-the-incident-at-honnoji.png", 
+        "image": "maps/6-mitsuhide-the-incident-at-honnoji.jpg", 
         "recommendedCharacter": "Mitsuhide Akechi/Toshimitsu Saitō", 
         "rareWeapon": "No", 
         "objectives": [
@@ -1199,7 +1199,7 @@
         "chapter": 6, 
         "path": "Mitsuhide", 
         "map": "Battle of Yamazaki*", 
-        "image": "maps/6-mitsuhide-battle-of-yamazaki.png", 
+        "image": "maps/6-mitsuhide-battle-of-yamazaki.jpg", 
         "recommendedCharacter": "Mitsuhide Akechi/Mitsuki", 
         "rareWeapon": "Sword + Matchlock", 
         "objectives": [
@@ -1221,7 +1221,7 @@
         "chapter": 6, 
         "path": "Mitsuhide", 
         "map": "Battle of Yamazaki (Hasiba Army)*", 
-        "image": "maps/6-mitsuhide-battle-of-yamazaki-(hasiba-army).png", 
+        "image": "maps/6-mitsuhide-battle-of-yamazaki-(hasiba-army).jpg", 
         "recommendedCharacter": "Hideyoshi Hashiba/Kanbei Kuroda/Kazuuji Nakamura", 
         "rareWeapon": "Naginata", 
         "objectives": [
@@ -1242,9 +1242,9 @@
     },
     { 
         "chapter": 1, 
-        "path": "Secret History Guide", 
+        "path": "Secret History", 
         "map": "Annihilation at Okehazana*", 
-        "image": "maps/1-secret-history-guide-annihilation-at-okehazana.png", 
+        "image": "maps/1-secret-history-guide-annihilation-at-okehazana.jpg", 
         "recommendedCharacter": "Yoshimoto Imagawa/Sena", 
         "rareWeapon": "Sledge Hammer", 
         "objectives": [
@@ -1261,9 +1261,9 @@
     },
     { 
         "chapter": 1, 
-        "path": "Secret History Guide", 
+        "path": "Secret History", 
         "map": "Final Battle for Kanegasaki*", 
-        "image": "maps/1-secret-history-guide-final-battle-for-kanegasaki.png", 
+        "image": "maps/1-secret-history-guide-final-battle-for-kanegasaki.jpg", 
         "recommendedCharacter": "Nō/Nobunaga Oda", 
         "rareWeapon": "Bow", 
         "objectives": [
@@ -1283,9 +1283,9 @@
     },
     { 
         "chapter": 1, 
-        "path": "Secret History Guide", 
+        "path": "Secret History", 
         "map": "Match in Eiroku*", 
-        "image": "maps/1-secret-history-guide-match-in-eiroku.png", 
+        "image": "maps/1-secret-history-guide-match-in-eiroku.jpg", 
         "recommendedCharacter": "Kenshin Uesugi/Magoichi Saika", 
         "rareWeapon": "Cannon", 
         "objectives": [
@@ -1306,11 +1306,11 @@
     },
     { 
         "chapter": 1, 
-        "path": "Secret History Guide", 
+        "path": "Secret History", 
         "map": "Final Battle for Odani Castle*", 
-        "image": "maps/1-secret-history-guide-final-battle-for-odani-castle.png", 
+        "image": "maps/1-secret-history-guide-final-battle-for-odani-castle.jpg", 
         "recommendedCharacter": "Nagamasa Azai/Katsuie Shibata/Oichi/Yoshikage Asakura", 
-        "rareWeapon": "Twin Blades", 
+        "rareWeapon": "Katana", 
         "objectives": [
             { "number": 1, "name": "Raid on Kyōgokumaru", "description": "Defeat Hideyoshi Hashiba and Hanbei Takenaka" },
             { "number": 2, "name": "The Oda's Arsonist", "description": "Defeat Sandayū Momochi" },
@@ -1329,9 +1329,9 @@
     },
     { 
         "chapter": 1, 
-        "path": "Secret History Guide", 
+        "path": "Secret History", 
         "map": "Final Battle for Kōzuki Castle*", 
-        "image": "maps/1-secret-history-guide-final-battle-for-kozuki-castle.png", 
+        "image": "maps/1-secret-history-guide-final-battle-for-kozuki-castle.jpg", 
         "recommendedCharacter": "Shikanosuke Yamanaka/Kazuuji Nakamura", 
         "rareWeapon": "Twin Blades", 
         "objectives": [
@@ -1349,9 +1349,9 @@
     },
     { 
         "chapter": 1, 
-        "path": "Secret History Guide", 
+        "path": "Secret History", 
         "map": "Nobuyasu's Rebellion", 
-        "image": "maps/1-secret-history-guide-nobuyasus-rebellion.png", 
+        "image": "maps/1-secret-history-guide-nobuyasus-rebellion.jpg", 
         "recommendedCharacter": "Ieyasu Tokugawa/Tadakatsu Honda", 
         "rareWeapon": "No", 
         "objectives": [
@@ -1370,9 +1370,9 @@
     },
     { 
         "chapter": 1, 
-        "path": "Secret History Guide", 
+        "path": "Secret History", 
         "map": "The Iga's Great Uprising*", 
-        "image": "maps/1-secret-history-guide-the-igas-great-uprising.png", 
+        "image": "maps/1-secret-history-guide-the-igas-great-uprising.jpg", 
         "recommendedCharacter": "Sandyū Momochi", 
         "rareWeapon": "Kusarigama", 
         "objectives": [
@@ -1390,9 +1390,9 @@
     },
     { 
         "chapter": 1, 
-        "path": "Secret History Guide", 
+        "path": "Secret History", 
         "map": "The Truth of Honnōji", 
-        "image": "maps/1-secret-history-guide-the-truth-of-honnoji.png", 
+        "image": "maps/1-secret-history-guide-the-truth-of-honnoji.jpg", 
         "recommendedCharacter": "Nobunaga Oda", 
         "rareWeapon": "No", 
         "objectives": [
@@ -1411,9 +1411,9 @@
     },
     {
         "chapter": 1,
-        "path": "Secret History Guide",
+        "path": "Secret History",
         "map": "The Great Unifier*",
-        "image": "maps/1-secret-history-guide-the-great-unifier.png",
+        "image": "maps/1-secret-history-guide-the-great-unifier.jpg",
         "recommendedCharacter": "Nobunaga Oda/Mitsuhide Akechi",
         "rareWeapon": "Sword + Matchlock", 
         "objectives": [
