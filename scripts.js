@@ -72,9 +72,9 @@ function filterResults() {
         const chapterMatch = chapterFilter === "" || chapter === chapterFilter;
         const pathMatch = pathFilter === "" || path === pathFilter;
         const mapMatch = mapFilter === "" || map === mapFilter;
-        const weaponMatch = rareWeaponFilter === "" || weapon === rareWeaponFilter;
+        //const weaponMatch = rareWeaponFilter === "" || weapon === rareWeaponFilter;
 
-        if (chapterMatch && pathMatch && mapMatch && weaponMatch) {
+        if (chapterMatch && pathMatch && mapMatch) {
             result.style.display = 'block';
         } else {
             result.style.display = 'none';
@@ -87,7 +87,7 @@ function openModal(imageSrc, captionText, objectivesList) {
     const modalImage = document.getElementById("modal-image");
     const caption = document.getElementById("caption");
     const objectives = document.getElementById("objectives");
-    console.log("ObjectivesList:", objectivesList);
+
     footer.classList.toggle('hidden');
     modal.style.display = "block";
     modalImage.src = imageSrc;
