@@ -7,101 +7,1430 @@
         "recommendedCharacter": "Nobunaga Oda",
         "rareWeapon": "No",
         "objectives": [
-          {
-            "number": 1,
-            "name": "The Battle Begins",
-            "description": "Defeat the enemy troops!"
-          },
-          {
-            "number": 2,
-            "name": "Heihachirō's Brave Fight",
-            "description": "Defeat Tadakatsu Honda!"
-          },
-          {
-            "number": 3,
-            "name": "Imagawa Reinforcements",
-            "description": "Defeat Motonobu Okabe and Yasuyoshi Asahina!"
-          },
-          {
-            "number": 4,
-            "name": "The Ninja and the Noblewoman",
-            "description": "Defeat Sena and Hanzō Hattori to prevent Nobuyuki Oda and Katsuie Shibata from being taken out!"
-          },
-          {
-            "number": 5,
-            "name": "Mikawa Wavers",
-            "description": "Defeat Hirotada Matsudaira and Masanari Naito!"
-          }
+            { "number": 1, "name": "The Battle Begins", "description": "Defeat the enemy troops!" },
+            { "number": 2, "name": "Heihachirō's Brave Fight", "description": "Defeat Tadakatsu Honda!" },
+            { "number": 3, "name": "Imagawa Reinforcements", "description": "Defeat Motonobu Okabe and Yasuyoshi Asahina!" },
+            { "number": 4, "name": "The Ninja and the Noblewoman", "description": "Defeat Sena and Hanzō Hattori to prevent Nobuyuki Oda and Katsuie Shibata from being taken out!" },
+            { "number": 5, "name": "Mikawa Wavers", "description": "Defeat Hirotada Matsudaira and Masanari Naito!" }
         ]
-      },
-      {
-        "chapter": 2,
-        "path": "12334",
-        "map": "Raid on the Imagawa",
-        "image": "maps/1-nobunaga-raid-on-the-imagawa.png",
-        "recommendedCharacter": "Nobunaga Oda",
+    },
+    { 
+        "chapter": 1, 
+        "path": "Nobunaga", 
+        "map": "Assault on Mino", 
+        "image": "maps/1-nobunaga-assault-on-mino.png", 
+        "recommendedCharacter": "Nobunaga Oda", 
+        "rareWeapon": "No", 
+        "objectives": [
+            { "number": 1, "name": "Gaining a Foothold", "description": "Defeat Michikatsu Inoue to capture the Central Garrison!" },
+            { "number": 2, "name": "The Foolish and the Stubborn", "description": "Defeat Mitsuhide Akechi!" },
+            { "number": 3, "name": "The Viper's Trap", "description": "Defeat Toshimitsu Saitō to protect the Oda Main Camp!" },
+            { "number": 4, "name": "We Three of Mino", "description": "Defeat Ittetsu Inaba, Morinari Andō and Bokuzen Uliie!" },
+            { "number": 5, "name": "The Young Strategist", "description": "Defeat Hanbei Takenaka!" },
+            { "number": 6, "name": "Echoes on the Battlefield", "description": "Defeat Mitsuharu Fuwa and the drum corps!" },
+            { "number": 7, "name": "Rematch", "description": "Defeat Mitsuhide Akechi!" },
+            { "number": 8, "name": "Nobuyuki's Struggle", "description": "Defeat Michitoshi Nagai and the spear captains!" },
+            { "number": 9, "name": "Yosgutatsu the Opportunist", "description": "Prevent Yoshitatsu Saitō from infiltrating the Oda Main Camp!" }
+        ]
+    },
+    { 
+        "chapter": 1, 
+        "path": "Nobunaga", 
+        "map": "Turmoil on Mt. Inaba", 
+        "image": "maps/1-nobunaga-turmoil-on-mt.-inaba.png", 
+        "recommendedCharacter": "Nobunaga Oda", 
+        "rareWeapon": "No", 
+        "objectives": [
+            { "number": 1, "name": "Breaking through the Siege", "description": "Defeat the enemy troops to break through their siege!" },
+            { "number": 2, "name": "Caged Butterfly", "description": "Defeat Dōchin Takegoshi to assist Nō's advance!" },
+            { "number": 3, "name": "The Spider's Thread", "description": "Defeat Michitoshi Nagai and Morinari Andō!" },
+            { "number": 4, "name": "Toshimitsu's Resolve", "description": "Defeat Toshimitsu Saitō!" },
+            { "number": 5, "name": "In the Depths of-Darkness", "description": "Defeat Ittetsu Inaba and Bokuzen Ujiie to open the Wooden-floored Room!" },
+            { "number": 6, "name": "Taking Precautions", "description": "Prevent Mataichi Sengoku from approaching Nō!" },
+            { "number": 7, "name": "The Strategist behind the Pincer", "description": "Defeat Hironari Hineno!" },
+            { "number": 8, "name": "A Genius General Lurks Beneath", "description": "Defeat Hanbei Takenaka!" }
+        ]
+    },
+    { 
+        "chapter": 1, 
+        "path": "Nobunaga", 
+        "map": "Battle of Muraki Garrison", 
+        "image": "maps/1-nobunaga-battle-of-muraki-garrison.png", 
+        "recommendedCharacter": "Ieyasu Tokugawa/Toshie Maeda",
         "rareWeapon": "No",
         "objectives": [
-          {
-            "number": 1,
-            "name": "The Battle Begins",
-            "description": "Defeat the enemy troops!"
-          },
-          {
-            "number": 2,
-            "name": "Heihachirō's Brave Fight",
-            "description": "Defeat Tadakatsu Honda!"
-          },
-          {
-            "number": 3,
-            "name": "Imagawa Reinforcements",
-            "description": "Defeat Motonobu Okabe and Yasuyoshi Asahina!"
-          },
-          {
-            "number": 4,
-            "name": "The Ninja and the Noblewoman",
-            "description": "Defeat Sena and Hanzō Hattori to prevent Nobuyuki Oda and Katsuie Shibata from being taken out!"
-          },
-          {
-            "number": 5,
-            "name": "Mikawa Wavers",
-            "description": "Defeat Hirotada Matsudaira and Masanari Naito!"
-          }
+            { "number": 1, "name": "Breaking through the Western Garrison", "description": "Defeat Yasutomo Asahina and Chikanori Niino" },
+            { "number": 2, "name": "Breaching the Imagawa Main Camp", "description": "Defeat Sena to break through the Imagawa Main Camp" },
+            { "number": 3, "name": "Nobunaga Must Be Saved", "description": "Escort Nobunaga Oda to the retreat point!" },
+            { "number": 4, "name": "Recsuing Mitsuyasu", "description": "Defeat Sadamura Suganuma and Kagetaka Yamada" },
+            { "number": 5, "name": "Oda Army Rescue Mission", "description": "Defeat Nobutada Fuji and Chikanaga Sekiguchi" },
+            { "number": 6, "name": "Capturing the Southeastern Garrison", "description": "Defeat Naomori Li to capture the Southeastern Garrison" },
+            { "number": 7, "name": "Burn Your Boats", "description": "Ieyasu Tokugawa must defeat enemy troops (must be Ieyasu Tokugawa)" },
+            { "number": 8, "name": "The Supreme Ruler of Tōkai", "description": "Defeat Yoshimoto Imagawa" }
         ]
-      },
-      {
-        "chapter": 3,
-        "path": "12334",
-        "map": "Raid on the Imagawa",
-        "image": "maps/1-nobunaga-raid-on-the-imagawa.png",
-        "recommendedCharacter": "Nobunaga Oda",
+    },
+    { 
+        "chapter": 1, 
+        "path": "Nobunaga", 
+        "map": "Battle of Nagara River", 
+        "image": "maps/1-nobunaga-battle-of-nagara-river.png", 
+        "recommendedCharacter": "Nobunaga Oda", 
         "rareWeapon": "No",
         "objectives": [
-          {
-            "number": 1,
-            "name": "The Battle Begins",
-            "description": "Defeat the enemy troops!"
-          },
-          {
-            "number": 2,
-            "name": "Heihachirō's Brave Fight",
-            "description": "Defeat Tadakatsu Honda!"
-          },
-          {
-            "number": 3,
-            "name": "Imagawa Reinforcements",
-            "description": "Defeat Motonobu Okabe and Yasuyoshi Asahina!"
-          },
-          {
-            "number": 4,
-            "name": "The Ninja and the Noblewoman",
-            "description": "Defeat Sena and Hanzō Hattori to prevent Nobuyuki Oda and Katsuie Shibata from being taken out!"
-          },
-          {
-            "number": 5,
-            "name": "Mikawa Wavers",
-            "description": "Defeat Hirotada Matsudaira and Masanari Naito!"
-          }
+            { "number": 1, "name": "Father and Mitsuhide", "description": "Rendezvous with Mitsuhide Akechi and rescue Dōsan Saitō" },
+            { "number": 2, "name": "The Oda's Crossing", "description": "Defeat the shield soldiers" },
+            { "number": 3, "name": "Yoshitatsu in the Way", "description": "Defeat Ittetsu Inaba and Morinari Andō" },
+            { "number": 4, "name": "On the Edge of Despair", "description": "Defeat Michikatsu Inoue and Michitoshi Nagai" },
+            { "number": 5, "name": "A Diversion", "description": "Defeat the enemy troops" },
+            { "number": 6, "name": "The Lady and the Hostage", "description": "Defeat Sena and Ieyasu Tokugawa" },
+            { "number": 7, "name": "So That We May Retreat", "description": "Defeat Bokuzen Ujiie and Mataichi Sengoku" },
+            { "number": 8, "name": "Father's Ruin", "description": "Defeat Yoshitatsu Saitō" },
+            { "number": 9, "name": "The Strategist's Betrayal", "description": "Defeat Hanbei Takenaka" },
+            { "number": 10, "name": "What He Left Behind", "description": "Defeat Motonobu Okabe and Yasutomo Asahina" },
+            { "number": 11, "name": "The Supreme Ruler of Tokai", "description": "Defeat Yoshimoto Inagawa" }
         ]
-      }
+    },
+    { 
+        "chapter": 1, 
+        "path": "Mitsuhide", 
+        "map": "Defense of Mino", 
+        "image": "maps/1-mitsuhide-defense-of-mino.png", 
+        "recommendedCharacter": "Mitsuhide Akechi", 
+        "rareWeapon": "No", 
+        "objectives": [
+            { "number": 1, "name": "Oda Forces Closing In", "description": "Defeat Nagahide Niwa" },
+            { "number": 2, "name": "A Concentration of Hostilities", "description": "Defeat the enemy troops" },
+            { "number": 3, "name": "Turning the Tides of Battle", "description": "Defeat Toshiie Maeda and Tsuneoki Ikeda" },
+            { "number": 4, "name": "Nobunaga's Younger Brother?", "description": "Defeat Ieyasu Tokugawa and Hanzō Hattori" },
+            { "number": 5, "name": "General-Less Main Camp", "description": "Defeat Nobuyuki Odo and Oichi" },
+            { "number": 6, "name": "The Master Statregist's Ordeal", "description": "Work with Hanbei Takenaka to defeat Nagachika Kanamori" },
+            { "number": 7, "name": "You Won't Take the Garrison!", "description": "Defeat Tadakatsu Honda" },
+            { "number": 8, "name": "A Fierce Charge", "description": "Prevent Narimasa Sassa from approaching Yoshitatsu Saitō" },
+            { "number": 9, "name": "Removing All Obstacles", "description": "Defeat Masahide Hirate" },
+            { "number": 10, "name": "Don't Underestimate a Fool", "description": "Mitsuhide Akechi must defeat Nobunaga Oda with Musou Attack (must be Mitsuhide Akechi)" },
+            { "number": 11, "name": "On Your Guard", "description": "Prevent Katsuie Shibata from infiltrating the Saitō Main Camp" }
+        ]
+    },
+    { 
+        "chapter": 1, 
+        "path": "Mitsuhide", 
+        "map": "Turmoil on Mt. Inaba", 
+        "image": "maps/1-mitsuhide-turmoil-on-mt.-inaba.png", 
+        "recommendedCharacter": "Mitsuhide Akechi", 
+        "rareWeapon": "No", 
+        "objectives": [
+            { "number": 1, "name": "Breaking through the Siege", "description": "Defeat the enemy troops to break through their siege!" },
+            { "number": 2, "name": "Caged Butterfly", "description": "Defeat Dōchin Takegoshi to assist Nō's advance!" },
+            { "number": 3, "name": "The Spider's Thread", "description": "Defeat Michitoshi Nagai and Morinari Andō!" },
+            { "number": 4, "name": "Toshimitsu's Resolve", "description": "Defeat Toshimitsu Saitō!" },
+            { "number": 5, "name": "In the Depths of-Darkness", "description": "Defeat Ittetsu Inaba and Bokuzen Ujiie to open the Wooden-floored Room!" },
+            { "number": 6, "name": "The Earnest Mitsuhide", "description": "Mitsuhide Akechi must defeat the enemy troops with a Musou Attack (must be Mitsuhide Akechi)" },
+            { "number": 7, "name": "The Strategist behind the Pincer", "description": "Defeat Hironari Hineno!" },
+            { "number": 8, "name": "A Genius General Lurks Beneath", "description": "Defeat Hanbei Takenaka!" }
+        ]
+    },
+    { 
+        "chapter": 1, 
+        "path": "Mitsuhide", 
+        "map": "Battle of Nagara River", 
+        "image": "maps/1-mitsuhide-battle-of-nagara-river.png", 
+        "recommendedCharacter": "Mitsuhide Akechi", 
+        "rareWeapon": "No", 
+        "objectives": [
+            { "number": 1, "name": "Unexpected Reinforcements", "description": "Rendezvous with Nobounaga Oda" },
+            { "number": 2, "name": "The Nagara River's Guard", "description": "Defeat Dōchin Takegoshi and Hironari Hineno" },
+            { "number": 3, "name": "The Meddling Three of Mino", "description": "Defeat Ittetsu Inaba, Morinari Andō and Bokuzen Ujiie" },
+            { "number": 4, "name": "A Tribute to Our Lord", "description": "Defeat Hanbei Takenaka and Yoshitatsu Saitō" },
+            { "number": 5, "name": "To Create a Diversion", "description": "Defeat the enemy troops" },
+            { "number": 6, "name": "The Noblewoman and Mighty Men Mikawa", "description": "Defeat Sena and Ieyasu Tokugawa" },
+            { "number": 7, "name": "Obstruction on the Cliff", "description": "Defeat the archers" },
+            { "number": 8, "name": "Continuing on the Mountain Path", "description": "Defeat the enemy troops" },
+            { "number": 9, "name": "The Path to Kiyosu", "description": "Defeat Mataichi Sengoku and Mondo Hayashi" },
+            { "number": 10, "name": "My Lord's Memento", "description": "Defeat Motonobu Okabe and Yasutomo Asahina" },
+            { "number": 11, "name": "Arrows in Tōkai", "description": "Defeat Yoshimoto Imagawa" }
+        ]
+    },
+    { 
+        "chapter": 1, 
+        "path": "Mitsuhide", 
+        "map": "Battle of Akechi Castle*", 
+        "image": "maps/1-mitsuhide-battle-of-akechi-castle.png", 
+        "recommendedCharacter": "Toshimitsu Saitō/Mitsuhide Akechi", 
+        "rareWeapon": "Spear", 
+        "objectives": [
+            { "number": 1, "name": "Yoshitatsu's Influence", "description": "Defeat Michikatsu Inoue and his allies" },
+            { "number": 2, "name": "The Counterattack Begins", "description": "Defat Mataichi Sengoku, Shigenori Takenaka and Masahide Ōsawa " },
+            { "number": 3, "name": "Former Friends", "description": "Defeat Hanbei Takenaka" },
+            { "number": 4, "name": "Premonition", "description": "Mitsuhide Akechi must reach Akechi Castle" },
+            { "number": 5, "name": "A Long Way", "description": "Defeat Ittetsu Inaba and his allies" },
+            { "number": 6, "name": "For Uncle", "description": "Defeat Nobuchika Kishi and Tadayoshi Satō" },
+            { "number": 7, "name": "The Sad Strategist", "description": "Defeat Hanbei Takenaka" },
+            { "number": 8, "name": "Surprising Supplies", "description": "Defeat supply soldiers before they reach the Eastern Barracks" },
+            { "number": 9, "name": "The Obstruction", "description": "Defeat all the shield soldiers" },
+            { "number": 10, "name": "Yoshitatsu's Troubles", "description": "Defeat Hironari Hineno and Michitoshi Nagai" },
+            { "number": 11, "name": "Yoshitatsu's Reinforcements", "description": "Defeat Yorimoto Tokiu and Mondo Hayashi" }
+        ]
+    },
+    { 
+        "chapter": 2, 
+        "path": "Nobunaga", 
+        "map": "Battle of Inō*", 
+        "image": "maps/2-nobunaga-battle-of-ino.png", 
+        "recommendedCharacter": "Nobunaga Oda/Hideyoshi Hashiba", 
+        "rareWeapon": "Great Spear", 
+        "objectives": [
+            { "number": 1, "name": "Destroying the Frontline", "description": "Defeat the enemy troops" },
+            { "number": 2, "name": "Blazing a Trail", "description": "Defeat Torazō Ōwaki and Heishirō Kanbe" },
+            { "number": 3, "name": "Striking at the Enemy's Morale", "description": "Defeat Hidesada Hayashi" },
+            { "number": 4, "name": "A Sister's Wish", "description": "Defeat Oichi" },
+            { "number": 5, "name": "A Demon of a Dead-End", "description": "Defeat Katsuie Shibata" },
+            { "number": 6, "name": "A Foothold for Victory", "description": "Defeat Shingo Tsunoda and Sukenojō Kamata" },
+            { "number": 7, "name": "Where's Oh Where is the Back Road?", "description": "Hideyoshi Hashiba must reach back road" },
+            { "number": 8, "name": "Breaking through the Center", "description": "Toshiie Maeda must defeat the enemy troops (must be Toshiie Maeda)" },
+            { "number": 9, "name": "Toshiie's Assault", "description": "Defeat Mimasakanokami Hayashi (can't be Toshiie Maeda)" },
+            { "number": 10, "name": "Mighty Spear Mataza", "description": "Defeat Jūzō Hashimoto and Sakyōnoshin Tomino" }
+        ]
+    },
+    { 
+        "chapter": 2, 
+        "path": "Nobunaga", 
+        "map": "Mayhem in Mikawa*", 
+        "image": "maps/2-nobunaga-mayhem-in-mikawa.png", 
+        "recommendedCharacter": "Ieyasu Tokugawa/Hanzō Hattori", 
+        "rareWeapon": "Sledge Hammer", 
+        "objectives": [
+            { "number": 1, "name": "To Crush a Rebellion", "description": "Defeat Nobumoto Mizuno and his allies" },
+            { "number": 2, "name": "The Pride of the Men of Mikawa", "description": "Defeat Sadayoshi Okudaira and Jinjirō Matsudaira" },
+            { "number": 3, "name": "Recurring Rebellion", "description": "Defeat Sadakatsu Okudaira and Chikanori Matsudaira" },
+            { "number": 4, "name": "Lady Sena's Rescue", "description": "Defeat Hideyoshi Hashiba, Yoshinari Mori and Nobushige Suzuki" },
+            { "number": 5, "name": "Budding Romance", "description": "Work with Sena to defeat Katsuie Shibata" },
+            { "number": 6, "name": "Attack of the Wanderers", "description": "Prevent any wanderers from infiltrating Okazaki Castle" },
+            { "number": 7, "name": "The Wanderers Return", "description": "Defeat all the wanderers to clear a path to the Southern Garrison" },
+            { "number": 8, "name": "The Demon Shibata and the Mighty Men of Mikawa", "description": "Ieyasu Tokugawa must defeat Katsuie Shibata with a Musou Attack (must be Ieyasu Tokugawa)" },
+            { "number": 9, "name": "Okazaki Castle under Threat", "description": "Prevent Sadatomo Okudaira and Takakiyo Miyake from infiltrating Okazaki Castle" }
+        ]
+    },
+    { 
+        "chapter": 2, 
+        "path": "Nobunaga", 
+        "map": "Battle of Okehazama", 
+        "image": "maps/2-nobunaga-battle-of-okehazama.png", 
+        "recommendedCharacter": "Nobunaga Oda", 
+        "rareWeapon": "No", 
+        "objectives": [
+            { "number": 1, "name": "Ambush on Dengakuhazama", "description": "Defeat Tadatsugu Sakai, Ienari Ishikawa and Tadazane Honda" },
+            { "number": 2, "name": "The Anticipated Ambush", "description": "Defeat Hanzō Hattori and his allies" },
+            { "number": 3, "name": "The Leader of the Tokugawa Clan", "description": "Defeat Ieyasu Tokugawa" },
+            { "number": 4, "name": "The Comeback", "description": "Defeat Sena and her allies" },
+            { "number": 5, "name": "Fools Don't Know When to Quit", "description": "Attack the enemy troops" },
+            { "number": 6, "name": "The Tokugawa Clan's Path", "description": "Defeat Sena" },
+            { "number": 7, "name": "Reclaiming the Garrison", "description": "Defeat Naomori Li and Yasutomo Asahina" },
+            { "number": 8, "name": "The Tokugawa Army Supply Soliders", "description": "Defeat all the Supply Captains" },
+            { "number": 9, "name": "The Successor to Samonji", "description": "Nobunaga Oda must defeat Yoshimoto Imagawa with Musou Attack (must be Nobunaga Oda)" },
+            { "number": 10, "name": "To Command the Imagawa", "description": "Defeat Motonobu Okabe" }
+        ]
+    },
+    { 
+        "chapter": 2, 
+        "path": "Nobunaga", 
+        "map": "Battle of Inabayama Castle", 
+        "image": "maps/2-nobunaga-battle-of-inabayama-castle.png", 
+        "recommendedCharacter": "Nobunaga Oda/Nō", 
+        "rareWeapon": "No", 
+        "objectives": [
+            { "number": 1, "name": "Forward March to Sunomata Castle", "description": "Defeat Yoshitaka Endō and Masanari Nonomura" },
+            { "number": 2, "name": "Sunomata Castle Must Not Fall", "description": "Prevent Sandayū Momochi from being defeated" },
+            { "number": 3, "name": "Yoshitatsu Struggles", "description": "Defeat Mitshuaru Fuwa" },
+            { "number": 4, "name": "The Tactician Attacks", "description": "Defeat Michitoshi Nagai and Sekian Takei" },
+            { "number": 5, "name": "Join Us, My Friend!", "description": "Defeat Hanbei Takenaka" },
+            { "number": 6, "name": "Stopping the Sait ōArmy Reinforcements", "description": "Defeat Hironari Hineno" },
+            { "number": 7, "name": "To Strike From Behind", "description": "Defeat Torimoto Toki and Naomitsu Takegoshi" },
+            { "number": 8, "name": "Farewell to the Past", "description": "Nō must defeat Yoshitatsu Saitō with a Musou Attack (must be Nō)" },
+            { "number": 9, "name": "A Wavering Heart", "description": "Defeat the surrounding enemy troops" }
+        ]
+    },
+    { 
+        "chapter": 2, 
+        "path": "Nobunaga", 
+        "map": "Battle to Build Sunomata Castle*", 
+        "image": "maps/2-nobunaga-battle-to-build-sunomata-castle.png", 
+        "recommendedCharacter": "Hideyoshi Hashiba/Sandayū Momochi", 
+        "rareWeapon": "Drums", 
+        "objectives": [
+            { "number": 1, "name": "The Battle to Erect Sunomata Castle - 1", "description": "Secure your supplies by escorting supply captains" },
+            { "number": 2, "name": "The Battle to Erect Sunomata Castle - 2", "description": "Secure your personnel by escorting the engineer captains" },
+            { "number": 3, "name": "Pelting Down", "description": "Defeat Yorimoto Toki and his allies" },
+            { "number": 4, "name": "One Thing After Another", "description": "Defeat Michitoshi Nagai and his allies" },
+            { "number": 5, "name": "Getting Ahead", "description": "Hideyoshi Hashiba must defeat the enemy troops (must be Hideyoshi Hashiba)" },
+            { "number": 6, "name": "The joy of Castle Construction", "description": "Defeat the enemy troops to the north of the Oda Main Camp" },
+            { "number": 7, "name": "Defend it with Your Life", "description": "Sandayū Momochi must defeat the enemy troops surrounding Sunomata Castle (must be Sandayū Momochi)" },
+            { "number": 8, "name": "When No One's Home", "description": "Defeat Ittesu Inaba, Bokuzen Ujiie and Morinari Andō" }
+        ]
+    },
+    { 
+        "chapter": 2, 
+        "path": "Mitsuhide", 
+        "map": "Defense of Echizen", 
+        "image": "maps/2-mitsuhide-defense-of-echizen.png", 
+        "recommendedCharacter": "Mitsuhide Akechi", 
+        "rareWeapon": "No", 
+        "objectives": [
+            { "number": 1, "name": "Battle Support", "description": "Defeat Yoshitada Ōshio before the peasants are taken out" },
+            { "number": 2, "name": "Surprising Reinforcements", "description": "Defeat Masatsune Henmi and Yoshishige Sawamure before the peasants are taken out" },
+            { "number": 3, "name": "Yoshikage's Rescue", "description": "Defeat Katsuhisa Awaya and Kojirō Awaya" },
+            { "number": 4, "name": "The Wall in the Way", "description": "Defeat Yoritsugu Toki and Hidemitsu Mori" },
+            { "number": 5, "name": "True Form", "description": "Defeat Nagayori Matsunaga" },
+            { "number": 6, "name": "Stopping the Engineers", "description": "Defeat all the engineer captains" },
+            { "number": 7, "name": "A Secret Advance", "description": "Defeat Katsui Awaya" },
+            { "number": 8, "name": "Trust Your Gut", "description": "Defeat Tadamasa Yūki" },
+            { "number": 9, "name": "For The People", "description": "Defeat Mitsuwaka Awaya, Handayū Tanabe and Yashirō Awaya" }
+        ]
+    },
+    { 
+        "chapter": 2, 
+        "path": "Mitsuhide", 
+        "map": "Battle of Gassantoda Castle", 
+        "image": "maps/2-mitsuhide-battle-of-gassantoda-castle.png", 
+        "recommendedCharacter": "Mitsuhide Akechi/Shikanosuke Yamanaka", 
+        "rareWeapon": "No", 
+        "objectives": [
+            { "number": 1, "name": "The Defecting Scout", "description": "Prevent Kisasuke Mitoya, Morikiyo Akana and Tamekiyo Misawa" },
+            { "number": 2, "name": "Mōri's Arrow", "description": "Defeat all the archers" },
+            { "number": 3, "name": "A Recommendation to Surrender", "description": "Prevent Tsunahiro Yonebara from approaching Hisanobu Ushio" },
+            { "number": 4, "name": "Mōri's Scheme", "description": "Prevent Takakage Kobayakawa, Sadatoshi Fukuhara and Nobunao Kumagai" },
+            { "number": 5, "name": "The Amago Unite", "description": "Don't allow the allied army officers to be defeated" },
+            { "number": 6, "name": "Critical Provisions", "description": "Escort Hisakane Uyama to the Tertiary Ward" },
+            { "number": 7, "name": "The Center of Attention", "description": "Shikanosuke Yamanaka must defeat the enemy troops (must be Shikanosuke Yamanaka)" },
+            { "number": 8, "name": "The Wolf of Iwami", "description": "Shikanosuke Yamanaka must defeat Masakazu Shiagawa (must be Shikanosuke Yamanaka)" },
+            { "number": 9, "name": "Rescuing Hidehisa", "description": "Defeat Motosuke Kunishi and Motozumi Katsura" },
+            { "number": 10, "name": "Targeting the Commander", "description": "Defeat Takasuke Miyoshi and Michiyoshi Kuchiba" },
+            { "number": 11, "name": "The Mōri's Valor", "description": "Defeat Motoharu Kikkawa" }
+        ]
+    },
+    { 
+        "chapter": 2, 
+        "path": "Mitsuhide", 
+        "map": "Joint Struggle with the Uesugi*", 
+        "image": "maps/2-mitsuhide-joint-struggle-with-the-uesugi.png", 
+        "recommendedCharacter": "Kenshin Uesugi/Mitsuhide Akechi", 
+        "rareWeapon": "Odachi", 
+        "objectives": [
+            { "number": 1, "name": "A Frim Foothold", "description": "Defeat the enemy troops" },
+            { "number": 2, "name": "Shigen Smiles", "description": "Defeat Shingen Takeda" },
+            { "number": 3, "name": "Threats from Both Sides", "description": "Defeat Kansuke Yamamoto and Nobufusa Baba" },
+            { "number": 4, "name": "The Cavalry's Ambush", "description": "Defeat Masakage Yamagata and Toramitsu Oyamada" },
+            { "number": 5, "name": "Advance the Front Line!", "description": "Defeat Masatoshi Hoshina, Katsusuke Atobe and Nobutane Asari" },
+            { "number": 6, "name": "The Takeda Army Strikes", "description": "Defeat Nobukado Takeda and Torasada Morozumi" },
+            { "number": 7, "name": "Gate of the Tiger of Kai", "description": "Defeat Nobutada Anayama and Masatomo Aiki" },
+            { "number": 8, "name": "Provisions Go Unprovided", "description": "Hurry and defeat Masatoyo Naitō" },
+            { "number": 9, "name": "The Sounds of Warhorses", "description": "Defeat all the cavalry captains" },
+            { "number": 10, "name": "The Schemer", "description": "Defeat Masanobu Kōsaka and Nobuari Oyamada" },
+            { "number": 11, "name": "Nobushige's Plan", "description": "Defeat Nobushige Takeda" }
+        ]
+    },
+    { 
+        "chapter": 3, 
+        "path": "Nobunaga", 
+        "map": "Battle of Northern Ōmi", 
+        "image": "maps/3-nobunaga-battle-of-northern-omi.png", 
+        "recommendedCharacter": "Nobunaga Oda", 
+        "rareWeapon": "No", 
+        "objectives": [
+            { "number": 1, "name": "Thwarting the Azai Army Ambush", "description": "Defeat Kiyosada Amenomori and Naotusne Endō" },
+            { "number": 2, "name": "Hanbei Considers", "description": "Defeat all spear cpatains" },
+            { "number": 3, "name": "Breaching Yamazakimaru", "description": "Defeat Tsunachika Kaihō and Naoyori Shinjō" },
+            { "number": 4, "name": "Take Out the Azai Officers", "description": "Defeat Sadayuki Atsuji and Ujinao Imamura" },
+            { "number": 5, "name": "Deer Hunter", "description": "Defeat Shikanosuke Yamanaka" },
+            { "number": 6, "name": "Reunion", "description": "Defeat Mitsuhide Akechi" },
+            { "number": 7, "name": "Make the First Move", "description": "Defeat all of the siege captains" },
+            { "number": 8, "name": "The Azai Army's Lifeline", "description": "Defeat Kiyotsuna Akao" },
+            { "number": 9, "name": "Shortcut to the Commander", "description": "Defeat the enemy troops" },
+            { "number": 10, "name": "A Head-On Battle", "description": "Nobunaga Oda must defeat Nagamasa Azai with Musou Attack (must be Nobunaga Oda)" },
+            { "number": 11, "name": "A False Start", "description": "Defeat Kazumasa Isono and Ujitane An'yōji" }
+        ]
+    },
+    { 
+        "chapter": 3, 
+        "path": "Nobunaga", 
+        "map": "Battle of Kannonji Castle*", 
+        "image": "maps/3-nobunaga-battle-of-kannonji-castle.png", 
+        "recommendedCharacter": "Oichi/Nobunaga Oda", 
+        "rareWeapon": "Talisman", 
+        "objectives": [
+            { "number": 1, "name": "A Stepping Stone to Kannoji Castle", "description": "Defeat Katamori Shindō, Shigemochi Mikumo and Kimio Fuse" },
+            { "number": 2, "name": "Seizing Mitsukuri Castle", "description": "Defeat Tomomichi Iwanari and Shigemasa Yoshida" },
+            { "number": 3, "name": "Attack of the Ninja", "description": "Defeat Mitsuki" },
+            { "number": 4, "name": "The Mysterious Assassin", "description": "Defeat Kazuuji Nakamura" },
+            { "number": 5, "name": "Seizing Wadayama Castle", "description": "Defeat Nagayasu Miyoshi and Jibunotaifu Tanaka" },
+            { "number": 6, "name": "Elimination", "description": "Defeat all of Kazuuji Nakamura's doubles" },
+            { "number": 7, "name": "By Your Side Once More", "description": "Nobunaga Oda must work with Mitushide Akechi to defeat the enemy troops (must be Nobounaga Oda)" },
+            { "number": 8, "name": "What Must Be Protected", "description": "Defeat the enemy troops" },
+            { "number": 9, "name": "Enemy Attck from the North", "description": "Defeat Sadahide Gamō and Katahida Gamō" },
+            { "number": 10, "name": "Enemy Attack from the Center", "description": "Defeat Masakatsu Miyoshi and Nagafusa Shinohara" },
+            { "number": 11, "name": "A Desperate Defense at Kitsukuri Castle", "description": "Defeat Yoshiharu Rokkaku, Sadatake Hirai and Sanefuse Ogura" },
+            { "number": 12, "name": "The Skilled Men of Rokkaku", "description": "Defeat Yoshisada Rokkau, Sadakage Namazue and Takaharu Gotō" },
+            { "number": 13, "name": "For His Protection", "description": "Oichi must defeat Yoshisada Rokkaku and his allies (must be Oichi)" },
+            { "number": 14, "name": "A Show of Skill", "description": "Oichi must defeat the enemy troops (must be Oichi)" }
+        ]
+    },
+    { 
+        "chapter": 3, 
+        "path": "Nobunaga", 
+        "map": "Invasion of Suruga*", 
+        "image": "maps/3-nobunaga-invasion-of-suruga.png", 
+        "recommendedCharacter": "Sena/Shigen Takeda", 
+        "rareWeapon": "Naginata", 
+        "objectives": [
+            { "number": 1, "name": "Advancing on The Imagawa", "description": "Capture the garrisons in the east and west" },
+            { "number": 2, "name": "The Loyal Officer Remains", "description": "Defeat Motonobu Okabe" },
+            { "number": 3, "name": "One Fell Swoop", "description": "Defeat the nearby enemy troops" },
+            { "number": 4, "name": "The Tokugawa's Looming Crisis", "description": "Defeat Kagetsuna Naoe, Tomonobu Saitō and Shigeie Shibata before they infiltrate the Tokugawa Main Camp" },
+            { "number": 5, "name": "The Takeda's Looming Crisis", "description": "Defeat Kagemochi Amakasu and Saneyori Honjō before they inflitrate the Tokugawa Main Camp" },
+            { "number": 6, "name": "Sandayū's Scheme", "description": "Defeat Tadahisa Suganuma, Ujimoto KAtsurayama and Nobuteru Sena " },
+            { "number": 7, "name": "Thinking of Imagawa", "description": "Sena must defeat Tadahisa Suganuma and his allies (must be Sena)" },
+            { "number": 8, "name": "Dismal End ", "description": "Defeat Ujizane Imagawa and prevent his rendzvous with Kenshin Uesugi" },
+            { "number": 9, "name": "A Righteous Man", "description": "Shingen Takeda must defeat Kenshin Uesugi before his health drops below 50 percent (must be Shingen Takeda)" },
+            { "number": 10, "name": "Buried Threats", "description": "Defeat Yatarō Onikojima and Nagahide Yasuda" }
+        ]
+    },
+    { 
+        "chapter": 3, 
+        "path": "Nobunaga", 
+        "map": "Battle of Rokujō", 
+        "image": "maps/3-nobunaga-battle-of-rokujo.png", 
+        "recommendedCharacter": "Nobunaga Oda/Oichi", 
+        "rareWeapon": "No", 
+        "objectives": [
+            { "number": 1, "name": "Unexpected Reinforcements", "description": "Defeat Yoshikata Rokkaku and his allies" },
+            { "number": 2, "name": "A Saitō Never Quits", "description": "Prevent Tatsuoki Saitō and his allies from approachins Yoshiaki Ashikaga" },
+            { "number": 3, "name": "Making Use of Lord Saitō", "description": "Defeat Masayasu Sogō and his allies" },
+            { "number": 4, "name": "A Cleansing Fire", "description": "Escort all the engineer captains to each target point" },
+            { "number": 5, "name": "Flashy Attacks!", "description": "Defeat the enemy troops in the Honkokuji Western Garrison" },
+            { "number": 6, "name": "Suspicious Movement", "description": "Prevent Sadakage Namazue from reaching the escape point" },
+            { "number": 7, "name": "The Vulnerable Garrison", "description": "Defeat the enemy troops in the Honokokuji Southwestern Garrison" },
+            { "number": 8, "name": "Recusing Murashige Araki", "description": "Defeat Miyoshi and Akimoto Hosokawa" },
+            { "number": 9, "name": "Destroy Everything", "description": "Defeat all enemy officers" }
+        ]
+    },
+    { 
+        "chapter": 3, 
+        "path": "Mitsuhide", 
+        "map": "Battle of Northern Ōmi", 
+        "image": "maps/3-mitsuhide-battle-of-northern-omi.png", 
+        "recommendedCharacter": "Mitsuhide Akechi", 
+        "rareWeapon": "No", 
+        "objectives": [
+            { "number": 1, "name": "The Oda's First Kill", "description": "Defeat Toshiie Maeda, Nobumori Sakuma and Yoshinari Mori" },
+            { "number": 2, "name": "Intelligence Operations", "description": "Defeat all the spy captains" },
+            { "number": 3, "name": "Buying Time", "description": "Defeat Hideyoshi Hashiba" },
+            { "number": 4, "name": "You'll Be Facing Me!", "description": "Defeat Oichi and Hidekatsu Fukuzumi" },
+            { "number": 5, "name": "Plans for a Vacant Castle", "description": "Defeat Hanbei Takenaka and the captains of the guard" },
+            { "number": 6, "name": "Two Who Stand Once More", "description": "Defeat Toshiie Maeda and Hideyoshi Hashiba" },
+            { "number": 7, "name": "The Oda Army Wiped Out", "description": "Defeat the enemy troops " },
+            { "number": 8, "name": "The People of Mino", "description": "Defeat Nō, Ittetsu Inaba and Bokuzen Ujiie" },
+            { "number": 9, "name": "The Results of Training", "description": "Mitushide Akechi must defeat Nobunaga Oda with a Musou Attack (must be Mitsuhide Akechi)" },
+            { "number": 10, "name": "The Devil Shibata Marches", "description": "Defeat Katsuie Shibata" }
+        ]
+    },
+    { 
+        "chapter": 3, 
+        "path": "Mitsuhide", 
+        "map": "Battle of Kannonji Castle", 
+        "image": "maps/3-mitsuhide-battle-of-kannonji-castle.png", 
+        "recommendedCharacter": "Mitsuhide Akechi/Oichi", 
+        "rareWeapon": "No", 
+        "objectives": [
+            { "number": 1, "name": "A Stepping Stone to Kannoji Castle", "description": "Defeat Katamori Shindō, Shigemochi Mikumo and Kimio Fuse" },
+            { "number": 2, "name": "Seizing Mitsukuri Castle", "description": "Defeat Tomomichi Iwanari and Shigemasa Yoshida" },
+            { "number": 3, "name": "Attack of the Ninja", "description": "Defeat Mitsuki" },
+            { "number": 4, "name": "The Mysterious Assassin", "description": "Defeat Kazuuji Nakamura" },
+            { "number": 5, "name": "Seizing Wadayama Castle", "description": "Defeat Nagayasu Miyoshi and Jibunotaifu Tanaka" },
+            { "number": 6, "name": "Elimination", "description": "Defeat all of Kazuuji Nakamura's doubles" },
+            { "number": 7, "name": "The Fruits of Labor", "description": "Mitsuhide Akechi must work with Nobunaga Oda to defeat the enemy troops (must be Mitsuhide Akechi)" },
+            { "number": 8, "name": "What Must Be Protected", "description": "Defeat the enemy troops" },
+            { "number": 9, "name": "Enemy Attck from the North", "description": "Defeat Sadahide Gamō and Katahida Gamō" },
+            { "number": 10, "name": "Enemy Attack from the Center", "description": "Defeat Masakatsu Miyoshi and Nagafusa Shinohara" },
+            { "number": 11, "name": "A Desperate Defense at Kitsukuri Castle", "description": "Defeat Yoshiharu Rokkaku, Sadatake Hirai and Sanefuse Ogura" },
+            { "number": 12, "name": "The Skilled Men of Rokkaku", "description": "Defeat Yoshisada Rokkau, Sadakage Namazue and Takaharu Gotō" },
+            { "number": 13, "name": "For His Protection", "description": "Oichi must defeat Yoshisada Rokkaku and his allies (must be Oichi)" },
+            { "number": 14, "name": "A Show of Skill", "description": "Oichi must defeat the enemy troops (must be Oichi)" }
+        ]
+    },
+    { 
+        "chapter": 3, 
+        "path": "Mitsuhide", 
+        "map": "Revival of the Amago Clan", 
+        "image": "maps/3-mitsuhide-revival-of-the-amago-clan.png", 
+        "recommendedCharacter": "Shikasuke Yamanaka/Mitsuhide Akechi", 
+        "rareWeapon": "No", 
+        "objectives": [
+            { "number": 1, "name": "To Hananodan", "description": "Defeat Hiroshige Katsura and Motosuke Kunishi" },
+            { "number": 2, "name": "Katsuhisa in Peril", "description": "Don't let Takashiga Amano and the spearmen approach Katsihisa Amago" },
+            { "number": 3, "name": "Clearing Out the Back Road", "description": "Escort the engineers to the Main Ward" },
+            { "number": 4, "name": "A Blade That Won't Hit True", "description": "Defeat Motoharu Kikkawa" },
+            { "number": 5, "name": "Aiding a Retreat", "description": "Defeat Hajime Watanabe and Hirohide Asonuma" },
+            { "number": 6, "name": "A Rain of Arrows", "description": "Defeat Takakage Kobayakawa" },
+            { "number": 7, "name": "Striking from the Rear", "description": "Defeat the enemy troops" },
+            { "number": 8, "name": "Ambush", "description": "Defeat all the spy captains" },
+            { "number": 9, "name": "Those Who Long for the Amago", "description": "Defeat Narihide Kodama, NArikata Kodama and Morishige Sugihara" }
+        ]
+    },
+    { 
+        "chapter": 3, 
+        "path": "Mitsuhide", 
+        "map": "Battle of Rokujō", 
+        "image": "maps/3-mitsuhide-battle-of-rokujo.png", 
+        "recommendedCharacter": "Mitsuki/Hisahide Matsunaga", 
+        "rareWeapon": "No", 
+        "objectives": [
+            { "number": 1, "name": "Defending Honkokuji", "description": "Defeat the enemy troops" },
+            { "number": 2, "name": "Messenger Dispatch", "description": "Escort the messengers to the target point" },
+            { "number": 3, "name": "Covert Aggression", "description": "Defeat Yoshiharu Rokkaku and his allies" },
+            { "number": 4, "name": "The Shōgun's Assault", "description": "Prevent Tatsuoki Saitō and his allies from approaching Yoshiaki Ashikaga" },
+            { "number": 5, "name": "Prepare the Fire Attack!", "description": "Defeat the Captains of the Guard in the shopping district to prepare a fire attack" },
+            { "number": 6, "name": "The Spirited Kunoichi", "description": "Mitsuki must defeat the enemy troops with a Musou Attack (must be Mitsuki)" },
+            { "number": 7, "name": "The Shōgun's Bodyguard", "description": "Defeat Kagetaka Yamaoka and Sadakage Namazue" },
+            { "number": 8, "name": "Vengeance for My Father", "description": "Defeat Tatsuoki Saitō" },
+            { "number": 9, "name": "Purging the Impure", "description": "Hisahide Matsunaga must defeat the enemy troops (must be Hisahide Matsunaga)" },
+            { "number": 10, "name": "Inverted Attack", "description": "Defeat Nagaharu Miyoshi and his allies" }
+        ]
+    },
+    { 
+        "chapter": 4, "path": "Nobunaga", 
+        "map": "Battle of Kanegasaki", 
+        "image": "maps/4-nobunaga-battle-of-kanegasaki.png", 
+        "recommendedCharacter": "Nobunaga Oda/Hisahide Matsunaga",
+        "rareWeapon": "No", 
+        "objectives": [
+            { "number": 1, "name": "The Asakura's Garrison", "description": "Defeat Kagemasa Maeba and Yoshitsugu Maeba" },
+            { "number": 2, "name": "Controlling Kanegasaki Castle", "description": "Defeat Kagetsune Asakura, Kagetake Asakura and Kageatsu Togano" },
+            { "number": 3, "name": "The Moving Battlefield", "description": "Defeat Naoyori Shinjō and his allies" },
+            { "number": 4, "name": "A Blocked Retreat", "description": "Defeat Kageakira Asakura and Naotsune Endō" },
+            { "number": 5, "name": "A Parting of Siblings", "description": "Defeat Oichi and Katsuie Shibata " },
+            { "number": 6, "name": "Conquering the Fort", "description": "Defeat Kagekata Uozumi and Yoshiie Yamazaki" },
+            { "number": 7, "name": "A Broken Pact", "description": "Defeat Yoshikage Asakura" },
+            { "number": 8, "name": "Friends in Need", "description": "Defeat Tsunachika Kaihō and his allies" },
+            { "number": 9, "name": "The Kindness of Acquaintances", "description": "Defeat Mototsuna Kutsuki" },
+            { "number": 10, "name": "Nagamasa's Decision", "description": "Defeat Nagamasa Azai" }
+        ]
+    },
+    { 
+        "chapter": 4, 
+        "path": "Nobunaga", 
+        "map": "Battle of Anegawa River*", 
+        "image": "maps/4-nobunaga-battle-of-anegawa-river.png", 
+        "recommendedCharacter": "Mitsuki/Kazuuji Nakamura", 
+        "rareWeapon": "Gloves", 
+        "objectives": [
+            { "number": 1, "name": "Demon Shibata's Pride", "description": "Defeat Katsuie Shibata and his allies" },
+            { "number": 2, "name": "Clash at Anegawa River", "description": "Defeat the enemy troops" },
+            { "number": 3, "name": "Quickly and Carefully", "description": "Defeat Kagenori Asakura, Naotaka Magara and Naozumi Magara before the Asakura Army notices you" },
+            { "number": 4, "name": "Cornering Yoshikage", "description": "Defeat Kagetake Asakura and his allies" },
+            { "number": 5, "name": "The Azai's Raid", "description": "Prevent Naotsune Endō and Naoyori Shinjō from infiltrating the Oda Main Camp" },
+            { "number": 6, "name": "For Reinforcements", "description": "Defeat Naotaka Nomura and Hidetoshi Ōnogi" },
+            { "number": 7, "name": "The Mercenary's Shadow", "description": "Defeat all the Saika Mercenaries" },
+            { "number": 8, "name": "Azai-Asakura Army Reinforcements", "description": "Defeat the enemy troops in the Central Battlefield" },
+            { "number": 9, "name": "A Mercenary's Job", "description": "Defeat Magoichi Saika" },
+            { "number": 10, "name": "A Mercenary's Clutches", "description": "Defeat Magoichi Saika before he approaches Nobunaga Oda (not being Nobunaga is required)" },
+            { "number": 11, "name": "A Wife's Feelings ", "description": "Defeat Oichi" }
+        ]
+    },
+    { 
+        "chapter": 4, 
+        "path": "Nobunaga", 
+        "map": "The Scorching of Mt. Hiei", 
+        "image": "maps/4-nobunaga-the-scorching-of-mt.-hiei.png", 
+        "recommendedCharacter": "Nobunaga Oda/Kazuuji Nakamura", 
+        "rareWeapon": "No", 
+        "objectives": [
+            { "number": 1, "name": "Northwestern Temple", "description": "Defeat Yoshimasa Oka and Genzō Matsuda" },
+            { "number": 2, "name": "Northeastern Temple", "description": "Defeat the enemy troops surrounding the Northeastern Temple" },
+            { "number": 3, "name": "Konponchudo Hall", "description": "Defeat Shigetaka Tsuchibashi and Shigeharu Tsuchibashi" },
+            { "number": 4, "name": "A Fierce Pursuit", "description": "Defeat the enemy troops" },
+            { "number": 5, "name": "The Uesugi Army Attacks", "description": "Defeat the Uesugi Army officers" },
+            { "number": 6, "name": "The Man Who Shot Nō", "description": "Defeat Magoichi Saika" },
+            { "number": 7, "name": "Enemy in the Training Hall", "description": "Defeat the enemy troops in the Training Hall" },
+            { "number": 8, "name": "The Inner Hall and the Bell Tower", "description": "Defeat all the rifle captains in the Inner Hall and the Bell Tower" },
+            { "number": 9, "name": "Relentless", "description": "Prevent all the peasant leaders from reaching the escape point" },
+            { "number": 10, "name": "Smoking Out the Enemy", "description": "Defeat Kagemochi Amakasu, Harutsuna Kaji and Shigenaga Honjō" },
+            { "number": 11, "name": "Dealing with the Dragon of Echigo", "description": "Defeat Kenshin Uesugi" }
+        ]
+    },
+    { 
+        "chapter": 4, 
+        "path": "Nobunaga", 
+        "map": "Battle of Mikatagahara*", 
+        "image": "maps/4-nobunaga-battle-of-mikatagahara.png", 
+        "recommendedCharacter": "Ieyasu Tokugawa/Tadakatsu Honda", 
+        "rareWeapon": "Ninjato", 
+        "objectives": [
+            { "number": 1, "name": "Counterattack", "description": "Defeat Nobutoyo Takeda and his allies" },
+            { "number": 2, "name": "Protecting the Fierce", "description": "Defeat Motonobu Okade and Nobutada Anayama" },
+            { "number": 3, "name": "The Tiger's Venomous Fangs", "description": "Defeat the ambush troops" },
+            { "number": 4, "name": "Westward Advance ", "description": "Defeat Morinobu Nishina and Nobusada Obata" },
+            { "number": 5, "name": "Rodent-Proof", "description": "Defeat Nobufasa Baba, Masateru Sanada and Masatane Hara" },
+            { "number": 6, "name": "Shirō's Honor", "description": "Defeat Katsuyori Takeda and the entire cavalry" },
+            { "number": 7, "name": "A Good Retainer's Dilemma", "description": "Defeat Masatoyo Naitō and Nobuzane Kawakubo" },
+            { "number": 8, "name": "Prepare for a Fight", "description": "Defeat Masatsugu Tsuchiya and Masazumi Kōsaka" },
+            { "number": 9, "name": "The Two Ieyasu", "description": "Defeat the enemy troops" },
+            { "number": 10, "name": "Shadow Commander", "description": "Don't let Masakage Yamagata and Shigetsugu Yonekura approach Ieyasu Tokugawa's Kagemusha" }
+        ]
+    },
+    { 
+        "chapter": 4, 
+        "path": "Nobunaga", 
+        "map": "Battle of Makishima Castle", 
+        "image": "maps/4-nobunaga-battle-of-makishima-castle.png", 
+        "recommendedCharacter": "Nobunaga Oda/Kazuuji Nakamura", 
+        "rareWeapon": "No", 
+        "objectives": [
+            { "number": 1, "name": "The Path to Makishima Castle", "description": "Defeat Tomomichi Iwanari and Fujikata Hosokawa" },
+            { "number": 2, "name": "Breaching the Outer Gates", "description": "Defeat the enemy troops" },
+            { "number": 3, "name": "Mitsuhuchi's Resolve", "description": "Defeat Fujihide Mitsubuchi " },
+            { "number": 4, "name": "Tracking down Magoichi", "description": "Find and defeat Magoichi Saika" },
+            { "number": 5, "name": "Crushing the Saika Mercenary Base", "description": "Defeat all of the Captains of the Guard" },
+            { "number": 6, "name": "The Castle Stained Crimson", "description": "Escort Sandayū Momochi to Makishima Castle" },
+            { "number": 7, "name": "The Threat Lurks Behind", "description": "Defeat Terusuke Hino" },
+            { "number": 8, "name": "Bringing Down the Enemy's Defense", "description": "Defeat the archer captains" },
+            { "number": 9, "name": "Guns without Bullets", "description": "Defeat the supply soliders carrying ammunition to the Northern Garrison" },
+            { "number": 10, "name": "Momochi's Escort", "description": "Hurry and defeat the Saika Mercenaries while they're still far away" }
+        ]
+    },
+    { 
+        "chapter": 4, 
+        "path": "Nobunaga", 
+        "map": "Battle of Mikatagahara (Takeda Army)*", 
+        "image": "maps/4-nobunaga-battle-of-mikatagahara-(takeda-army).png", 
+        "recommendedCharacter": "Shingen Takeda/Katsuyori Takeda", 
+        "rareWeapon": "Great Spear", 
+        "objectives": [
+            { "number": 1, "name": "The Takeda Cavalry Advances", "description": "Defeat Tadatsugu Sakai, Tadasuke Ōkubo and Tadatsugu Matsui" },
+            { "number": 2, "name": "Heihachiro and the Takeda Cavalry", "description": "Defeat Tadakatsu Honda before cavalry captain is defeated" },
+            { "number": 3, "name": "Protection", "description": "Defeat Sena" },
+            { "number": 4, "name": "Hanzō's Special Attack", "description": "Put an end to Hanzō Hattori's mysterious attack by defeating all the Hanzō Hattoris" },
+            { "number": 5, "name": "The Men of Mikawa's Siege", "description": "Defeat Tadazane Honda and his allies" },
+            { "number": 6, "name": "The Pride of the Men of Mikawa", "description": "Defeat the ambush troops" },
+            { "number": 7, "name": "Shadows on the Mountain Path", "description": "Defeat Masanobu Honda and KAtsushige Itakura" },
+            { "number": 8, "name": "The Tokugawa's Foothold", "description": "Defeat Yasumasa Sakakibara Ishikawa" },
+            { "number": 9, "name": "Shirō's Desperate Fight", "description": "Katsuyori Takeda must defeat enemy troops with a Musou Attack (must be Katsuyori Takeda)" },
+            { "number": 10, "name": "Wrath from on High", "description": "Defeat all the archers" },
+            { "number": 11, "name": "Mikawa's Show of Force", "description": "Defeat Tadayo Ōkubo and Yasukage Amano" }
+        ]
+    },
+    { 
+        "chapter": 4, 
+        "path": "Nobunaga", 
+        "map": "Battle of Tonezaka", 
+        "image": "maps/4-nobunaga-battle-of-tonezaka.png", 
+        "recommendedCharacter": "Mitsuhide Akeci/Mitsuki", 
+        "rareWeapon": "No", 
+        "objectives": [
+            { "number": 1, "name": "Clash at Tonezaka", "description": "Defeat Michikage Asakura and his allies" },
+            { "number": 2, "name": "A Steel Defense", "description": "Defeat the enemy troops" },
+            { "number": 3, "name": "The Uesugi's Raid", "description": "Prevent Kagemochi Amakasu and his allies from infiltrating the Oda Main Camp" },
+            { "number": 4, "name": "No Asakura Shall Survive", "description": "Defeat KAgeyuki Asakura and Kageakira Takahashi" },
+            { "number": 5, "name": "The God of War's Stratagem", "description": "Defeat Tomonobu Saitō, Nagahide Yasuda and Kagetsugu Amakasu" },
+            { "number": 6, "name": "For the Ninja", "description": "Defeat Tatsuoki Saitō and Michitoshi Nagai" },
+            { "number": 7, "name": "Mitsuki Fights", "description": "Mitsuki must defeat Tatsuoki Saitō and Michitoshi Nagai with Musou Attacks (must be Mitsuki)" },
+            { "number": 8, "name": "A Necessary Farewell", "description": "Mitsuhide Akechi must defeat Yoshikage Asakura with a Musou Attack (must be Mitsuhide Akechi)" },
+            { "number": 9, "name": "Where the Attack Starts", "description": "Defeat the enemy troops" },
+            { "number": 10, "name": "Not even Gods Are Scared", "description": "Defeat Nagaatsu Shibata and Nagachika Kawada" },
+            { "number": 11, "name": "With a Traitor by Your Side", "description": "Escort Kageakira Asakura to the Uesugi Main Camp" }
+        ]
+    },
+    { 
+        "chapter": 4, 
+        "path": "Nobunaga", 
+        "map": "Battle of Odani Castle", 
+        "image": "maps/4-nobunaga-battle-of-odani-castle.png", 
+        "recommendedCharacter": "Mitsuhide Akechi/Toshiie Maeda", 
+        "rareWeapon": "No", 
+        "objectives": [
+            { "number": 1, "name": "Blood-Stained Yamazakimaru", "description": "Defeat the enemy troops" },
+            { "number": 2, "name": "Capturing the Southern Garrison", "description": "Defeat Kunisada Mitamura" },
+            { "number": 3, "name": "Breaking Through the Southern Lines", "description": "Defeat Ujitane An'yōji and Hidetoshi Ōnogi" },
+            { "number": 4, "name": "Momochi's Plan", "description": "Defeat Naoyori Nakajima and Naochika Nakajima" },
+            { "number": 5, "name": "He Who Stands in the Way", "description": "Defeat Oichi and her allies" },
+            { "number": 6, "name": "The Guardians of Kingomaru", "description": "Defeat Katsuie Shibata and the shield soldiers" },
+            { "number": 7, "name": "Mitsuhide in Peril", "description": "Defeat Kazumasa Isono and his allies before they approach Mitsuhide Akechi" },
+            { "number": 8, "name": "The Massacre of Kyogokumaru", "description": "Defeat Tsunachika Kaihō and his allies" },
+            { "number": 9, "name": "Unwavering Resolve", "description": "Defeat Oiichi and Katsuie Shibata" },
+            { "number": 10, "name": "Hidden in the Garrison", "description": "Defeat the spy captains hiding in the garrison" },
+            { "number": 11, "name": "Allied Reinforcements arrive", "description": "Defeat the enemy troops" },
+            { "number": 12, "name": "Rendzvous with Nobunaga", "description": "Defeat Katsumoto Katagiri and the spear captains" },
+            { "number": 13, "name": "The Swift Arrows of the Azai Army", "description": "Defeat the archer captains" },
+            { "number": 14, "name": "Mitsuki's Progress", "description": "Defeat Masamoto Azai and Kiyotsuna Akao" }
+        ]
+    },
+    { 
+        "chapter": 4, 
+        "path": "Mitsuhide", 
+        "map": "Battle of Kanegasaki", 
+        "image": "maps/4-mitsuhide-battle-of-kanegasaki.png", 
+        "recommendedCharacter": "Mitsuhide Akechi/Toshimitsi Saitō", 
+        "rareWeapon": "No", 
+        "objectives": [
+            { "number": 1, "name": "Making a Way Out", "description": "Defeat the enemy troops" },
+            { "number": 2, "name": "Clear a Path to Safety", "description": "Defeat Kageakira Asakura and Kagetada Asakura" },
+            { "number": 3, "name": "A Sister's Decision", "description": "Defeat Oichi and Katsuie Shibata" },
+            { "number": 4, "name": "Yoshikage Marches Forth", "description": "Defeat Yoshikage Asakura" },
+            { "number": 5, "name": "The Asakura's Ambush", "description": "Defeat Kageyoshi Asakura, KAgechika Torii and Nagashige Toda" },
+            { "number": 6, "name": "The Azai's Attack", "description": "Defeat Masamoto Azai" },
+            { "number": 7, "name": "Those Hiding in the Shadows", "description": "Defeat the spy captains" },
+            { "number": 8, "name": "Securing the Defensive Garrison", "description": "Defeat Kunisada Mitamura" },
+            { "number": 9, "name": "Though Not Yet United", "description": "Defeat Hidemura Hori and Naofusa Higuchi" },
+            { "number": 10, "name": "Leave No One Behind", "description": "Defeat Yoshiie Yamazaki and his allies" }
+        ]
+    },
+    { 
+        "chapter": 4, 
+        "path": "Mitsuhide", 
+        "map": "The Scorching of Mt. Hiei", 
+        "image": "maps/4-mitsuhide-the-scorching-of-mt.-hiei.png", 
+        "recommendedCharacter": "Mitsuhide Akechi/Nobunaga Oda", 
+        "rareWeapon": "No", 
+        "objectives": [
+            { "number": 1, "name": "The Path to the Blaze", "description": "Defeat Morishige Tsuchibashi, Genzō Matsuda and Yoshitsugu Kitsunejima" },
+            { "number": 2, "name": "The Fire Attack Preparations", "description": "Defeat the enemy troops" },
+            { "number": 3, "name": "The Saika Mercenaries' Blockade", "description": "Defeat Yoshimasa Oka, Shigetaka Tsuchibashi and Shigeharu Tsuchibashi" },
+            { "number": 4, "name": "The Uesugi's Vanguard", "description": "Defeat Kagemochi Amakasu and his allies" },
+            { "number": 5, "name": "Looming Danger", "description": "Defeat Akinaga Irobe and Nagazane Irobe" },
+            { "number": 6, "name": "Try Harder!", "description": "Defeat the enemy troops" },
+            { "number": 7, "name": "Suspicious Movements", "description": "Defeat the fireball soldier squadron" },
+            { "number": 8, "name": "Sworn Foe", "description": "Nobunaga Oda must defeat Magoichi Saika before his health drops below 50 percent (must be Nobunaga Oda)" },
+            { "number": 9, "name": "The Saika Mercenaries' Pride", "description": "Defeat Saburō Kurimura and Yosaburō Sakai" },
+            { "number": 10, "name": "Proof of Conviction", "description": "Mitsuhide Akechi must defeat Kenshin Uesugi with a Musou Attack (must be Mitsuhide Akechi)" },
+            { "number": 11, "name": "Incoming Bullet", "description": "Don't let Magoichi Saika approach Nobunaga Oda (can't be Nobunaga)" }
+        ]
+    },
+    { 
+        "chapter": 4, 
+        "path": "Mitsuhide", 
+        "map": "Battle of Makishima Castle", 
+        "image": "maps/4-mitsuhide-battle-of-makishima-castle.png", 
+        "recommendedCharacter": "Mitsuhide Akechi/Toshimitsu Saitō", 
+        "rareWeapon": "No", 
+        "objectives": [
+            { "number": 1, "name": "The Path to Makishima Castle", "description": "Defeat Tomomichi Iwanari and Fujikata Hosokawa" },
+            { "number": 2, "name": "Breaching the Outer Gates", "description": "Defeat the enemy troops" },
+            { "number": 3, "name": "Mitsubuchi's Resolve", "description": "Defeat Fujihide Mitsubuchi " },
+            { "number": 4, "name": "Tracking down Magoichi", "description": "Find and defeat Magoichi Saika" },
+            { "number": 5, "name": "Crushing the Saika Mercenary Base", "description": "Defeat all of the Captains of the Guard" },
+            { "number": 6, "name": "The Castle Stained Crimson", "description": "Escort Sandayū Momochi to Makishima Castle" },
+            { "number": 7, "name": "The Threat Lurks Behind", "description": "Defeat Terusuke Hino" },
+            { "number": 8, "name": "Truth Shrouded in Gunsmoke", "description": "Defeat the Saika Mercenary Rilfe Captains" },
+            { "number": 9, "name": "Momochi's Escort", "description": "Hurry and defeat the Saika Mercenaries while they're still far away" }
+        ]
+    },
+    { 
+        "chapter": 4, 
+        "path": "Mitsuhide", 
+        "map": "Battle of Tonezaka", 
+        "image": "maps/4-mitsuhide-battle-of-tonezaka.png", 
+        "recommendedCharacter": "Mitsuki/Mitsuhide Akechi", 
+        "rareWeapon": "No", 
+        "objectives": [
+            { "number": 1, "name": "Prepare to Defect", "description": "Make Yoshitsugu Maeda defect by defeating Yoshinobu Kanemaki and Naganori Yamazaki" },
+            { "number": 2, "name": "A Steel Defense", "description": "Defeat the enemy troops" },
+            { "number": 3, "name": "The Uesugi's Raid", "description": "Prevent Kagemochi Amakasu and his allies from infiltrating the Oda Main Camp" },
+            { "number": 4, "name": "No Asakura Shall Survive", "description": "Defeat Kageyuki Asakura and Kageakira Takahashi" },
+            { "number": 5, "name": "The God of War's Stratagem", "description": "Defeat Tomonobu Saitō, Nagahide Yasuda and Kagetsugu Amakasu" },
+            { "number": 6, "name": "For the Ninja", "description": "Defeat Tatsuoki Saitō and Michitoshi Nagai" },
+            { "number": 7, "name": "Mitsuki Fights", "description": "Mitsuki must defeat Tatsuoki Saitō and Michitoshi Nagai with Musou Attacks (must be Mitsuki)" },
+            { "number": 8, "name": "A Necessary Farewell", "description": "Mitsuhide Akechi must defeat Yoshikage Asakura with a Musou Attack (must me Mitsuhide Akechi)" },
+            { "number": 9, "name": "Where the Attack Starts", "description": "Defeat the enemy troops" },
+            { "number": 10, "name": "Not even Gods Are Scared", "description": "Defeat Nagaatsu Shibata and Nagachika Kawada" },
+            { "number": 11, "name": "With a Traitor by Your Side", "description": "Escort Kageakira Asakura to the Uesugi Main Camp" }
+        ]
+    },
+    { 
+        "chapter": 4, 
+        "path": "Mitsuhide", 
+        "map": "Battle of Odani Castle", 
+        "image": "maps/4-mitsuhide-battle-of-odani-castle.png", 
+        "recommendedCharacter": "Mitsuhide Akechi/Toshiie Maeda", 
+        "rareWeapon": "No", 
+        "objectives": [
+            { "number": 1, "name": "Blood-Stained Yamazakimaru", "description": "Defeat the enemy troops" },
+            { "number": 2, "name": "Capturing the Southern Garrison", "description": "Defeat Kunisada Mitamura" },
+            { "number": 3, "name": "Breaking Through the Southern Lines", "description": "Defeat Ujitane An'yōji and Hidetoshi Ōnogi" },
+            { "number": 4, "name": "Momochi's Plan", "description": "Defeat Naoyori Nakajima and Naochika Nakajima" },
+            { "number": 5, "name": "He Who Stands in the Way", "description": "Defeat Oichi and her allies" },
+            { "number": 6, "name": "The Guardians of Kingomaru", "description": "Defeat Katsuie Shibata and the shield soldiers" },
+            { "number": 7, "name": "Nobunaga in Danger", "description": "Defeat Kazumasa Isono and his allies before they approach Nobunaga Oda" },
+            { "number": 8, "name": "The Massacre of Kyogokumaru", "description": "Defeat Tsunachika Kaihō and his allies" },
+            { "number": 9, "name": "Breaking through the Guard Post", "description": "Defeat the enemy troops" },
+            { "number": 10, "name": "Unwavering Resolve", "description": "Defeat Oiichi and Katsuie Shibata" },
+            { "number": 11, "name": "Hidden in the Garrison", "description": "Defeat the spy captains hiding in the garrison" },
+            { "number": 12, "name": "Allied Reinforcements arrive", "description": "Defeat the enemy troops" },
+            { "number": 13, "name": "Rendzvous with Nobunaga", "description": "Defeat Katsumoto Katagiri and the spear captains" },
+            { "number": 14, "name": "Mitsuki's Progress", "description": "Defeat Masamoto Azai and Kiyotsuna Akao" }
+        ]
+    },
+    { 
+        "chapter": 5, 
+        "path": "Nobunaga", 
+        "map": "Battle of Nagashino", 
+        "image": "maps/5-nobunaga-battle-of-nagashino.png", 
+        "recommendedCharacter": "Nobunaga Oda/Katsuie Shibata", 
+        "rareWeapon": "No", 
+        "objectives": [
+            { "number": 1, "name": "Holding the Front Line", "description": "Defeat Motonobu Okabe and his allies" },
+            { "number": 2, "name": "The Back Road", "description": "Masateru Sanada, Nobuchika Komiyama and Morimitsu Saegusa" },
+            { "number": 3, "name": "To Save Face", "description": "Work with Katsuie Shibata to defeat all the Takeda Cavalry Captains" },
+            { "number": 4, "name": "The Cavalry Moves Out", "description": "Defeat all of the Takeda Cavalry Captains" },
+            { "number": 5, "name": "To Nagashino Castle", "description": "Defeat Nobutada Anayama and Masasada Saegusa" },
+            { "number": 6, "name": "The Cavalry Strikes", "description": "Defeat Masakage Yamagata and his allies and the Takeda Cavalry" },
+            { "number": 7, "name": "Red-Clad Warriors", "description": "Defeat Katsuyori Takeda" },
+            { "number": 8, "name": "Saving Nagashino Castle", "description": "Defeat Masazumi Kōsaka, Nobukado Takeda and Nobuzane Kawakubo" },
+            { "number": 9, "name": "Procuring Provisions", "description": "Defeat Masatsune Tsuchiya and Katsusuke Atobe" },
+            { "number": 10, "name": "A Cry for Help", "description": "Defeat Nobuyasu Amari" },
+            { "number": 11, "name": "An Unwanted Rendezvous", "description": "Prevent Shingen Takeda and MAsanobu Kōsaka from rendezvousing" },
+            { "number": 12, "name": "The Palisade Threatened", "description": "Prevent the engineer captains from reaching the Palisade" }
+        ]
+    },
+    { 
+        "chapter": 5, 
+        "path": "Nobunaga", 
+        "map": "Battle of Shigisan Castle", 
+        "image": "maps/5-nobunaga-battle-of-shigisan-castle.png", 
+        "recommendedCharacter": "Nobunaga Oda/Mitsuhide Akechi", 
+        "rareWeapon": "No", 
+        "objectives": [
+            { "number": 1, "name": "Path to the Southern Gate", "description": "Advance toward the South Gate to infiltrate Shigisan Castle" },
+            { "number": 2, "name": "Silencing the Matsunaga Army", "description": "Infiltrate Northern Garrison and defeat the enemy troops" },
+            { "number": 3, "name": "Nobutada in Trouble", "description": "Defeat Ieyasu Shidei, Kunimitsu Shiokawa and Hidekatsu Yamagachi" },
+            { "number": 4, "name": "A Storehouse under Fire", "description": "Prevent the fireball captains from reaching the storehouse" },
+            { "number": 5, "name": "The Guards at the Castle Gates", "description": "Defeat Masanobu Honda and Hisamichi Matsunaga" },
+            { "number": 6, "name": "The Matsunaga Army Gets Serious", "description": "Defeat Muneyoshi Yagyū, Tomokiyo Ebina, Hideshige Kawarabayashi and Kunitaka Oka" },
+            { "number": 7, "name": "Stopping the Matsunaga Army Reinforcements", "description": "Defeat Hidemitsu Mori" },
+            { "number": 8, "name": "A Message Interrupted", "description": "Defeat Yoshihisa Mori" },
+            { "number": 9, "name": "Fake Messenger Knocking at the Southern Gate", "description": "Escort Yoshihisa Mori to the South Gate" },
+            { "number": 10, "name": "The Same Beat", "description": "Defeat Tadamasa Yūki and Tadataka Okuda" }
+        ]
+    },
+    { 
+        "chapter": 5, 
+        "path": "Nobunaga", 
+        "map": "Battle of Tetorigawa*", 
+        "image": "maps/5-nobunaga-battle-of-tetorigawa.png", 
+        "recommendedCharacter": "Katsuie Shibata/Toshiie Maeda", 
+        "rareWeapon": "Spear", 
+        "objectives": [
+            { "number": 1, "name": "Gonroku's Marches North", "description": "Defeat the enemy troops" },
+            { "number": 2, "name": "The God of War's Commandments", "description": "Defeat Kunikiyo Yamaura, Chikanori Suibara and Yoshitsuna Takenomata" },
+            { "number": 3, "name": "Onikojima Strikes", "description": "Defeat Yatarō Onikojima and Yoshihide Shida" },
+            { "number": 4, "name": "In Pursuit of Righteousness", "description": "Defeat Kagehiro Kitajō and Shigeie Shibata" },
+            { "number": 5, "name": "Hold the Northern Garrison", "description": "Prevent Tomonobu Saitō  and Nagazane Irobe from reaching the Northern Garrison" },
+            { "number": 6, "name": "Onwards to the Uesugi Main Camp", "description": "Defeat Shigenaga Honjō, Nagaatsu Shibata and Takahiro Kitajō" },
+            { "number": 7, "name": "To Bring down a God", "description": "Defeat Nagahide Yasuda and Hidetsuna Honjō" },
+            { "number": 8, "name": "The Ikki Brotherhood's Desperate Fight", "description": "Defeat Raijun Shimotsuma and all the warriors monks" },
+            { "number": 9, "name": "Ladies First", "description": "Defeat Kagemochi Amakasu and Nagachika Kawada" },
+            { "number": 10, "name": "Beauty and the Gonroku", "description": "Hurry and defeat Shigenaga Honjō, Nagaatsu Shibata and Takahiro Kitajō" },
+            { "number": 11, "name": "For Lord Nobunaga", "description": "Toshiie Maeda must defeat Kenshin Uesugi with a Musou Frenzy Attack (must be Toshiie Maeda)" },
+            { "number": 12, "name": "Attack on Mattō Castle Western Garrison", "description": "Defeat Kagenaga Sanponji and Nobuyoshi Iwai" }
+        ]
+    },
+    { 
+        "chapter": 5, 
+        "path": "Nobunaga", 
+        "map": "Battle of Kizugawaguchi*", 
+        "image": "maps/5-nobunaga-battle-of-kizugawaguchi.png", 
+        "recommendedCharacter": "Kazjuui Nakamura/Hanbei Takenaka", 
+        "rareWeapon": "Cannon", 
+        "objectives": [
+            { "number": 1, "name": "Guarding the Main Camp", "description": "Defeat Nobunao Kumagai and Munekatsu Nomi" },
+            { "number": 2, "name": "Have Hope", "description": "Defend the Oda Main Camp" },
+            { "number": 3, "name": "The Time to Strike Back", "description": "Defeat the enemy troops" },
+            { "number": 4, "name": "Saika's Victim", "description": "Defeat Magoichi Saika" },
+            { "number": 5, "name": "Another Attack", "description": "Defeat Terumoto Mōri and his allies" },
+            { "number": 6, "name": "Extinction ", "description": "Prevent the transport unit from reaching the Southeastern Garrison" },
+            { "number": 7, "name": "For My Friends", "description": "Hanbei Takenaka must defeat one of the enemies closing in on the Oda Main Camp with a Musou Attack (must be Hanbei Takenaka)" },
+            { "number": 8, "name": "With Hanbei", "description": "Defeat Terumoto Mōri and his allies before Hanbei Takenaka's health drops below 50 percent" },
+            { "number": 9, "name": "Looming Menace", "description": "Defeat Rairen Shimotsuma and Raijun Shimotsuma" },
+            { "number": 10, "name": "Where There's Smoke", "description": "Defeat the arson squadron" }
+        ]
+    },
+    { 
+        "chapter": 5, 
+        "path": "Nobunaga", 
+        "map": "The Subjugation of Harima", 
+        "image": "maps/5-nobunaga-the-subjugation-of-harima.png", 
+        "recommendedCharacter": "Nobunaga Oda/Mitsuhide Akechi", 
+        "rareWeapon": "No", 
+        "objectives": [
+            { "number": 1, "name": "An Ambush Out of Nowhere", "description": "Defeat Masakore Kushihashi and Motosuke Hiraga" },
+            { "number": 2, "name": "A Diverted Diversion", "description": "Defeat Nagashige Nagai and Harutada Miyake to prevent them from intefering" },
+            { "number": 3, "name": "The Devoted Oda Army", "description": "Defeat Motoyasu Shiji and Yasuaki Miki" },
+            { "number": 4, "name": "In Hot Pursuit", "description": "Defeat Yoriharu Uozumi, Ichisuke Tsumura and Fujikane Masuda" },
+            { "number": 5, "name": "A Strategic Capture", "description": "Defeat Sadanori Ōgo and Harusada Bessho" },
+            { "number": 6, "name": "Miki's Lifeline", "description": "Defeat Yorisada Kanki and the supply unit" },
+            { "number": 7, "name": "Mōri's Rescue", "description": "Prevent Mototsugu Shishido, Hajime Watanabe and Hiroshige Katsura from reaching Miki Castle" },
+            { "number": 8, "name": "The Shorthanded Main Camp", "description": "Prevent Kageyuki Kajiwara from infiltrating the Oda Main Camp" },
+            { "number": 9, "name": "Swarming Shadows", "description": "Defeat the spy captains" },
+            { "number": 10, "name": "The Impossible Infiltration", "description": "Defeat Motoharu Kikkawa and Treumoto Mōri" }
+        ]
+    },
+    { 
+        "chapter": 5, 
+        "path": "Nobunaga", 
+        "map": "Battle of Arioka Castle*", 
+        "image": "maps/5-nobunaga-battle-of-arioka-castle.png", 
+        "recommendedCharacter": "Hanebi Takenake/Kazuuji Nakamura", 
+        "rareWeapon": "Drums", 
+        "objectives": [
+            { "number": 1, "name": "Laying Siege", "description": "Defeat Yorimichi Nose and Murauji Suita" },
+            { "number": 2, "name": "Bait", "description": "Defeat enemy troops" },
+            { "number": 3, "name": "Hanbei's Strategy", "description": "Defeat Muratsugu Araki and Shigekata Kinoshita" },
+            { "number": 4, "name": "Rescuing Kanbei", "description": "Defeat Motokio Araki, Niemon Anbe and Tomomasa Ikeda" },
+            { "number": 5, "name": "Murashige Araki Escapes", "description": "Prevent Murashige Araki and Michiyoshi Kuchiba from rendezvousing" },
+            { "number": 6, "name": "Fighting the Mōri", "description": "Defeat Takai Shichido and his allies" },
+            { "number": 7, "name": "Hanbei's Preparations", "description": "Defeat Masamoto Kodera and Kunimitsu Shiokawa" },
+            { "number": 8, "name": "Setting an Example", "description": "Defeat Motokiyo Araki, Niemon Anbe and Tomomasa Ikeda" },
+            { "number": 9, "name": "The Soldiers of Arioka Castle", "description": "Defeat Ukon Takayama and Kiyohide Nakagawa" },
+            { "number": 10, "name": "The Rear Guard", "description": "Defeat Hajime Watanabe and Nobunao Kumagai" },
+            { "number": 11, "name": "My Final Duty", "description": "Hanbei Takenaka must defeat the enemy troops (must be Hanbei Takenaka)" },
+            { "number": 12, "name": "Impregnable", "description": "Defeat Motoharu Kikkawa" }
+        ]
+    },
+    { 
+        "chapter": 5, 
+        "path": "Nobunaga", 
+        "map": "The Nobuyasu Affair*", 
+        "image": "maps/5-nobunaga-the-nobuyasu-affair.png", 
+        "recommendedCharacter": "Ieyasu Tokugawa/Hanzō Hattori", 
+        "rareWeapon": "Twin Blades", 
+        "objectives": [
+            { "number": 1, "name": "The Strongest Cavalry", "description": "Defeat the entire Takeda Cavalry" },
+            { "number": 2, "name": "The Path to Discord", "description": "Defeat Nobusada Obara and his allies" },
+            { "number": 3, "name": "Seeds of Doubt", "description": "Defeat Tsuneharu Yonekizu and Yasutada Matsudaira" },
+            { "number": 4, "name": "The Moment of Truth", "description": "Defeat Motonobu Okabe and his allies" },
+            { "number": 5, "name": "Katsuyori Flees", "description": "Defeat Katsuyori Takeda" },
+            { "number": 6, "name": "Returning Home", "description": "Defeat Shigetsugu Honda and Chikayoshi Hiraiwa" },
+            { "number": 7, "name": "The Heart That Wavers", "description": "Defeat Kazumasa Ishikawa before Tadayo Ōkubo's health drops below 50 percent" },
+            { "number": 8, "name": "The Takeda's Pride", "description": "Defeat Tomoharu Komiyama and his allies" },
+            { "number": 9, "name": "The Iga in Shadow", "description": "Defeat Masayasu Fujibayashi, Yazaemon Kido and Mitsutsugu Ueda" }
+        ]
+    },
+    { 
+        "chapter": 5, 
+        "path": "Mitsuhide", 
+        "map": "Invasion of Tanba", 
+        "image": "maps/5-mitsuhide-invasion-of-tanba.png", 
+        "recommendedCharacter": "Mitsuhide Akechi", 
+        "rareWeapon": "No", 
+        "objectives": [
+            { "number": 1, "name": "Capturing the Southeast", "description": "Defeat Masatsuna Shiga and Mitsuyoshi Hōkabe" },
+            { "number": 2, "name": "Guardians of the Garrison", "description": "Defeat Hideharu Hatano" },
+            { "number": 3, "name": "A Call for Reinforcements", "description": "Defeat the guard captains" },
+            { "number": 4, "name": "Hatano's Trap", "description": "Defeat Hideharu Hatano and his allies" },
+            { "number": 5, "name": "Final Battle with the Blue Demon of Tanba", "description": "Defeat Norinari Momii" },
+            { "number": 6, "name": "Captuiring the Center", "description": "Defeat Mitsunaga Adachi and his allies" },
+            { "number": 7, "name": "A Quiet Determination", "description": "Defeat Tadaie Akai and Yukiie Akai" },
+            { "number": 8, "name": "Scouts Detected", "description": "Prevent the messenger from reaching the escape point" },
+            { "number": 9, "name": "Those without Power", "description": "Defeat the peasants" },
+            { "number": 10, "name": "The Akai Army's Strategy", "description": "Defeat Tokiie Akai" },
+            { "number": 11, "name": "A Shining Spear in the Back", "description": "Defeat Nobumasa Sakai and Suruganokami Kimura" }
+        ]
+    },
+    { 
+        "chapter": 5, 
+        "path": "Mitsuhide", 
+        "map": "Escape from Odaka Castle", 
+        "image": "maps/5-mitsuhide-escape-from-odaka-castle.png", 
+        "recommendedCharacter": "Shikasuke Yamanaka", 
+        "rareWeapon": "No", 
+        "objectives": [
+            { "number": 1, "name": "Meet Motomichi Jinzai", "description": "Defeat Haruyoshi Kuichiba and Munekatsu Nomi" },
+            { "number": 2, "name": "Courtyard Division", "description": "Defeat Hirohide Asonuma, Nobunao Kumagai and Motohide Akagawa" },
+            { "number": 3, "name": "Bringing down the Defense", "description": "Defeat Takakage Kobayakawa and the surrounding officers" },
+            { "number": 4, "name": "Bursting through the Corridor", "description": "Defeat the archer captains" },
+            { "number": 5, "name": "The Genius's Gambit", "description": "Defeat the fake Hisanori Moriwaki, Michiyoshi Kuchiba and Sadatoshi Fukuhara" },
+            { "number": 6, "name": "Breaking the Three Arrows", "description": "Defeat Takakage Kobayakawa, Motoharu Kikkawa and Terumoto Mōri" },
+            { "number": 7, "name": "Hunted Deer", "description": "Defeat Fujikane MAsuda and Motosuke Hiraga" },
+            { "number": 8, "name": "Rendezvous with Tsunahiro Yonebara", "description": "Defeat Naoyuki Koi and Narikata Kodama" },
+            { "number": 9, "name": "Rendezvous with Munenobu Akiage", "description": "Defeat Takanao Kumagai" },
+            { "number": 10, "name": "Watch Your Back", "description": "Defeat Kunaishōyu Niizato" },
+            { "number": 11, "name": "The Amago Unified", "description": "Reach the escape point with all your comrades" }
+        ]
+    },
+    { 
+        "chapter": 5, 
+        "path": "Mitsuhide", 
+        "map": "Battle of Shigisan Castle", 
+        "image": "maps/5-mitsuhide-battle-of-shigisan-castle.png", 
+        "recommendedCharacter": "Nobunaga Oda/Mitsuhide Akechi", 
+        "rareWeapon": "No", 
+        "objectives": [
+            { "number": 1, "name": "Path to the Southern Gate", "description": "Advance toward the South Gate to infiltrate Shigisan Castle" },
+            { "number": 2, "name": "Silencing the Matsunaga Army", "description": "Infiltrate Northern Garrison and defeat the enemy troops" },
+            { "number": 3, "name": "Nobutada in Trouble", "description": "Defeat Ieyasu Shidei, Kunimitsu Shiokawa and Hidekatsu Yamagachi" },
+            { "number": 4, "name": "A Storehouse under Fire", "description": "Prevent the fireball captains from reaching the storehouse" },
+            { "number": 5, "name": "The Guards at the Castle Gates", "description": "Defeat Masanobu Honda and Hisamichi Matsunaga" },
+            { "number": 6, "name": "The Matsunaga Army Gets Serious", "description": "Defeat Muneyoshi Yagyū, Tomokiyo Ebina, Hideshige Kawarabayashi and Kunitaka Oka" },
+            { "number": 7, "name": "Stopping the Matsunaga Army Reinforcements", "description": "Defeat Hidemitsu Mori" },
+            { "number": 8, "name": "A Message Interrupted", "description": "Defeat Yoshihisa Mori" },
+            { "number": 9, "name": "Fake Messenger Knocking at the Southern Gate", "description": "Escort Yoshihisa Mori to the South Gate" },
+            { "number": 10, "name": "The Same Beat", "description": "Defeat Tadamasa Yūki and Tadataka Okuda" }
+        ]
+    },
+    { 
+        "chapter": 5, 
+        "path": "Mitsuhide", 
+        "map": "Battle of Shigisan Castle (Mastunaga Army)*", 
+        "image": "maps/5-mitsuhide-battle-of-shigisan-castle-(mastunaga-army).png", 
+        "recommendedCharacter": "Hisahide Matsunaga", 
+        "rareWeapon": "Kusarigama", 
+        "objectives": [
+            { "number": 1, "name": "Sweeping the Front Line", "description": "Defeat Shikanosuke Yamanaka and his allies" },
+            { "number": 2, "name": "Fine Is My Forte", "description": "Escort the fireballs soldiers to the Eastern Garrison" },
+            { "number": 3, "name": "A Golden Opportunity", "description": "Defeat Nobutada Oda before th drawbridge is lowered" },
+            { "number": 4, "name": "Till the Castle Gates Open", "description": "Defeat the enemy troops" },
+            { "number": 5, "name": "Impenetrable Gates", "description": "Defeat Hideyoshi Hashiba" },
+            { "number": 6, "name": "Shigiyama Castle Sealed Tight", "description": "Defeat Toshimitsu Saitō, Nagachika Kanamori and Yoritaka Hachiya" },
+            { "number": 7, "name": "The Concealed Oda Ninja", "description": "Defeat Kazuuji Nakamura" },
+            { "number": 8, "name": "Boosting Morale", "description": "Defeat Hanbei Takenaka" },
+            { "number": 9, "name": "Punishment Most Foul", "description": "Defeat Yoshihisa Mori and Shigenobu Matsukura" },
+            { "number": 10, "name": "Elevated Spectacle", "description": "Defeat Sandayū Momochi" }
+        ]
+    },
+    { 
+        "chapter": 5, 
+        "path": "Mitsuhide", 
+        "map": "Battle of Kōzuki Castle", 
+        "image": "maps/5-mitsuhide-battle-of-kozuki-castle.png", 
+        "recommendedCharacter": "Mitsuhide Akechi/Toshimitsu Saitō", 
+        "rareWeapon": "No", 
+        "objectives": [
+            { "number": 1, "name": "The Main Camp as Bait", "description": "Defeat Michiyoshi Kuchiba, Motosuke Kunishi and Motosuke Hiraga" },
+            { "number": 2, "name": "While the Officers Are Away...", "description": "Defeat the enemy troops" },
+            { "number": 3, "name": "Prepare Yourself, Amago Deer!", "description": "Defeat Hiroie Kikkawa and Tadaie Ukita" },
+            { "number": 4, "name": "Enemy Reinforcements Storming In", "description": "Defeat Morishige Suighara and his allies" },
+            { "number": 5, "name": "Motoharu Interferes", "description": "Defeat Motoharu Kikkawa, Harinaga Hayashi and Mototada Kamiyama" },
+            { "number": 6, "name": "To Be Called a Rifleman", "description": "Prevent Naoie Ukita from reaching the target point" },
+            { "number": 7, "name": "Shikanosuke Serves His Lord", "description": "Work with Shikanosuke Yamanaka to defeat the enemy troops" },
+            { "number": 8, "name": "The Unrelenting Mōri Army", "description": "Prevent Hajime Watanabe and Motronaga Masuda from approaching Kazumasu Takigawa and Nagahide Niwa" }
+        ]
+    },
+    { 
+        "chapter": 5, 
+        "path": "Mitsuhide", 
+        "map": "Battle of Kōzuki Castle (Mōri Army)*", 
+        "image": "maps/5-mitsuhide-battle-of-kozuki-castle-(mori-army).png", 
+        "recommendedCharacter": "Motonari Mōri/Takakage Kobayakawa", 
+        "rareWeapon": "Katana/Bow", 
+        "objectives": [
+            { "number": 1, "name": "Invasion of Kōzuki Castle", "description": "Defeat Ujihisa Amago and his allies" },
+            { "number": 2, "name": "Conserving Strength", "description": "Defeat the surrounding enemy troops" },
+            { "number": 3, "name": "Crushing Antlers", "description": "Defeat Shikanosuke Yamanaka" },
+            { "number": 4, "name": "Like a Moth to the Flame", "description": "Defeat Nobumori Sakuma and his allies" },
+            { "number": 5, "name": "How the Oda Abandonded the Amago", "description": "Don't let the Oda Army officers each the escape point" },
+            { "number": 6, "name": "A Rude Awakening", "description": "Defeat Katushia Amago before Shikanosuke Yamanaka arrives" },
+            { "number": 7, "name": "Without Supplies", "description": "Prevent the supply captains from reaching the Northern Garrison" },
+            { "number": 8, "name": "The Enemy from the South", "description": "Defeat Fujitaka Hosokawa before he can advance" },
+            { "number": 9, "name": "A Fated Ending", "description": "Motonariu Mōri must defeat Shikanosuke Yamanaka with a Musou Attack (must be Motonariu Mōri)" },
+            { "number": 10, "name": "Do or Die", "description": "Defeat Mitsuhide Akechi and Hideyoshi Hashiba before they can retreat (complete before finishing objective 5)" }
+        ]
+    },
+    { 
+        "chapter": 5, 
+        "path": "Mitsuhide", 
+        "map": "The Subjugation of Harima", 
+        "image": "maps/5-mitsuhide-the-subjugation-of-harima.png", 
+        "recommendedCharacter": "Mitsuhide Akechi/Toshimitsu Saitō", 
+        "rareWeapon": "No", 
+        "objectives": [
+            { "number": 1, "name": "An Ambush Out of Nowhere", "description": "Defeat Masakore Kushihashi and Motosuke Hiraga" },
+            { "number": 2, "name": "A Diverted Diversion", "description": "Defeat Nagashige Nagai and Harutada Miyake to prevent them from intefering" },
+            { "number": 3, "name": "The Devoted Oda Army", "description": "Defeat Motoyasu Shiji and Yasuaki Miki" },
+            { "number": 4, "name": "In Hot Pursuit", "description": "Defeat Yoriharu Uozumi, Ichisuke Tsumura and Fujikane Masuda" },
+            { "number": 5, "name": "A Strategic Capture", "description": "Defeat Sadanori Ōgo and Harusada Bessho" },
+            { "number": 6, "name": "Miki's Lifeline", "description": "Defeat Yorisada Kanki and the supply unit" },
+            { "number": 7, "name": "Mōri's Rescue", "description": "Prevent Mototsugu Shishido, Hajime Watanabe and Hiroshige Katsura from reaching Miki Castle" },
+            { "number": 8, "name": "The Shorthanded Main Camp", "description": "Prevent Kageyuki Kajiwara from infiltrating the Oda Main Camp" },
+            { "number": 9, "name": "A Switf Slice", "description": "Toshimitsu Saitō must defeat Norikage Kinugasa and Michiaki Miki (must be Toshimitsu Saitō)" },
+            { "number": 10, "name": "The Impossible Infiltration", "description": "Defeat Motoharu Kikkawa and Treumoto Mōri" }
+        ]
+    },
+    { 
+        "chapter": 5, 
+        "path": "Mitsuhide", 
+        "map": "The Iga's Revolt", 
+        "image": "maps/5-mitsuhide-the-igas-revolt.png", 
+        "recommendedCharacter": "Mitsuhide Akechi/Toshimitsu Saitō", 
+        "rareWeapon": "No", 
+        "objectives": [
+            { "number": 1, "name": "Breaching Amagoiyama Castle", "description": "Defeat Seibei Machii, Daizen Funō and Masayasu Fujibayashi" },
+            { "number": 2, "name": "The Spreading Flames", "description": "Defeat Sakyō Koizumi and Mitsutsugu Ueda" },
+            { "number": 3, "name": "Breaching Hijiyama Castle", "description": "Defeat Shōgen Fukukita and Tōbei Momota" },
+            { "number": 4, "name": "The Iga Army's Trap", "description": "Defeat all the fireball captains" },
+            { "number": 5, "name": "Mitsuki Turns Her Back", "description": "Work with Kazuuji Nakamura to defeat Mitsuki" },
+            { "number": 6, "name": "Visions of a Comrade", "description": "Defeat the phantoms of Shikanosuke Yamanaka and Nagamasa Azai" },
+            { "number": 7, "name": "Stopping the Spy Captain", "description": "Defeat all the spy captains" },
+            { "number": 8, "name": "Capturing the Western Garrison", "description": "Defeat Sukezaemon Nakabayashi and Chūbei Tomioka" },
+            { "number": 9, "name": "The Ninja's Secret Maneuvers", "description": "Defeat all the spy captains" },
+            { "number": 10, "name": "Targeting Ieyasu", "description": "Defeat Kamonnosuke Taya and the siege captains" }
+        ]
+    },
+    { 
+        "chapter": 6, 
+        "path": "Nobunaga", 
+        "map": "Battle of Takatenjin Castle", 
+        "image": "maps/6-nobunaga-battle-of-takatenjin-castle.png", 
+        "recommendedCharacter": "Nobunaga Oda/Ieyasu Tokugawa", 
+        "rareWeapon": "No", 
+        "objectives": [
+            { "number": 1, "name": "A Threat to the Main Camp", "description": "Prevent Mitsumasa Muroga and Motoyasu Maramiishi from infiltrating the main camp" },
+            { "number": 2, "name": "Capturing the Nogasaka Garrison", "description": "Defeat the enemy troops" },
+            { "number": 3, "name": "The Enemy Closes in on Higamine Garrison", "description": "Defeat Mitsukata Nagasaka and Tomohide Ōkuma" },
+            { "number": 4, "name": "For Okabe", "description": "Defeat Nobukado Takeda and his allies" },
+            { "number": 5, "name": "The Cavalry at Takatenjin Castle", "description": "Defeat all the Takeda Cavalry Captains" },
+            { "number": 6, "name": "Archers on the Cliff", "description": "Defeat all the archer captains" },
+            { "number": 7, "name": "Whoever is Running the Show", "description": "Defeat Nobumori Ema" },
+            { "number": 8, "name": "The Enemy with the Upper Hand", "description": "Defeat Masatoshi Hoshina and Mitsutsuna Akiyama" },
+            { "number": 9, "name": "Tokugawa and Nobutada's United Front", "description": "Defeat enemy troops attacking the main camp" },
+            { "number": 10, "name": "Settling the Score with Okabe", "description": "Defeat Motonobu Okabe with a Musou Attack" }
+        ]
+    },
+    { 
+        "chapter": 6, 
+        "path": "Nobunaga", 
+        "map": "Conquest of Kai*", 
+        "image": "maps/6-nobunaga-conquest-of-kai.png", 
+        "recommendedCharacter": "Nobunaga Oda/Hanzō Hattori", 
+        "rareWeapon": "Gloves", 
+        "objectives": [
+            { "number": 1, "name": "The Beginnings of Betrayal", "description": "Defeat the enemy troops" },
+            { "number": 2, "name": "The Last of the Takeda Cavalry", "description": "Defeat the Takeda Cavalry" },
+            { "number": 3, "name": "To Shinpu Castle", "description": "Defeat Masasada Oyamada and Masayuki Oyamada" },
+            { "number": 4, "name": "Castle Ruins", "description": "Defeat Morinobu Nishina and Masanao Hoshina" },
+            { "number": 5, "name": "The Takeda Struggle", "description": "Defeat Tomoharu Komiyama and Sadamitsu Kanemaru" },
+            { "number": 6, "name": "The Takeda's Foothold", "description": "Defeat Nobukado Takeda and Yoritoyo Suwa" },
+            { "number": 7, "name": "The Takeda Buy Some Time", "description": "Defend the Oda Main Camp by defeating enemy troops" },
+            { "number": 8, "name": "For My Lord", "description": "Defeat the enemy troops at Mt. Tenmoku (must be Hanzō Hattori)" },
+            { "number": 9, "name": "A Guide to Treachery", "description": "Escort Nobutada Anayama" },
+            { "number": 10, "name": "Almost at the Summit", "description": "Defeat Nobutoyo Takeda, Mitsukata Nagasaka and Tomohide Ōkuma" },
+            { "number": 11, "name": "The General Who Killed a Thousand Men", "description": "Defeat Masatsune Tsuchiya" }
+        ]
+    },
+    { 
+        "chapter": 6, 
+        "path": "Nobunaga", 
+        "map": "The Incident at Honnōji*", 
+        "image": "maps/6-nobunaga-the-incident-at-honnoji.png", 
+        "recommendedCharacter": "Nobunaga Oda/Yasuke", 
+        "rareWeapon": "Odachi", 
+        "objectives": [
+            { "number": 1, "name": "The Last Battle", "description": "Defeat Katsusada Shibata, Masachika Matsuda and Yoshikiyo Kimura" },
+            { "number": 2, "name": "The Iga's Resentment", "description": "Defeat the spy captains who infiltrated Honnōji" },
+            { "number": 3, "name": "Nobutada's Haste", "description": "Defeat Dengo Fujita and Kunitsugu Yasuda" },
+            { "number": 4, "name": "Nobunaga and Sandayū", "description": "Defeat all the Sandayū Momochis" },
+            { "number": 5, "name": "Time to Settle the Score", "description": "Defeat Mitsuhide Akechi" },
+            { "number": 6, "name": "Mitsuhide's Subjects", "description": "Defeat Toshimitsu Saitō and his allies" },
+            { "number": 7, "name": "The Riflemen in the Corridor", "description": "Defeat all of the rifle captains" },
+            { "number": 8, "name": "I Won't Let You Stop Me", "description": "Capture the barracks outside of Honnōji" },
+            { "number": 9, "name": "An Insurmountable Difference in Power", "description": "Defeat all of the spear captains" },
+            { "number": 10, "name": "The Demon King's Pride", "description": "Nobunaga Oda must achieve victory with at least 50 percent health remaining (must be Nobunaga Oda)" },
+            { "number": 11, "name": "Repaying Lord Nobunaga", "description": "Yasuke must defeat the enemy troops with a Musou Attack (must be Yasuke)" },
+            { "number": 12, "name": "Taking Advantage of the Confusion", "description": "Defeat Toshimitsu Saitō, Hidemitsu Akechi and Sadaoki Ise" }
+        ]
+    },
+    { 
+        "chapter": 6, 
+        "path": "Nobunaga", 
+        "map": "Battle of Takamatsu Castle*", 
+        "image": "maps/6-nobunaga-battle-of-takamatsu-castle.png", 
+        "recommendedCharacter": "Kanbei Kuroda/Kazuuji Nakamura", 
+        "rareWeapon": "Talisman", 
+        "objectives": [
+            { "number": 1, "name": "Seizing the High Ground", "description": "Defeat the enemy troops" },
+            { "number": 2, "name": "Damming Ashimorigawa River", "description": "Defeat Nobuyoshi Sechika and Ekei Ankokuji" },
+            { "number": 3, "name": "Levee under Construction", "description": "Defeat Munetada Nanba, Narikata Kodama and Kagechika Hibata" },
+            { "number": 4, "name": "Reinforcements Arrive", "description": "Defeat Kagenobu Katsure and his allies" },
+            { "number": 5, "name": "Eliminating Obstacles", "description": "Defeat Mototake Kunishi and Magobei Oda" },
+            { "number": 6, "name": "Nuisance Will Not Be Forgiven", "description": "Defeat Motoyuki Nakashima" },
+            { "number": 7, "name": "The Lord's Grudge", "description": "Defeat Muneharu Shimizu and Munetomo Shimizu" },
+            { "number": 8, "name": "A Clever Pincer", "description": "Defeat Motosuke Hiraga and Hyōbu Kihara" },
+            { "number": 9, "name": "Siezing the Garrison", "description": "Defeat Motoharu Kikkawa and Munekatsu Nomi" }
+        ]
+    },
+    { 
+        "chapter": 6, 
+        "path": "Nobunaga", 
+        "map": "Journey through Iga*", 
+        "image": "maps/6-nobunaga-journey-through-iga.png", 
+        "recommendedCharacter": "Hanzō Hattori", 
+        "rareWeapon": "Ninjato", 
+        "objectives": [
+            { "number": 1, "name": "Hanroku of Otowa", "description": "Defeat Hanroku Otowa and all the rifle captains" },
+            { "number": 2, "name": "After Ieyasu", "description": "Defeat Hachiemon Yamada and all the spy captains" },
+            { "number": 3, "name": "A New Retreat Point", "description": "Defeat Magodayū Nomura and Dōjunb Iganozaki" },
+            { "number": 4, "name": "Maruyama Castle's Reinforcements", "description": "Defeat Tarōjirō Kōyama and Tarōzaemon Kōyama" },
+            { "number": 5, "name": "Ambushing Hijiyama Castle", "description": "Defeat Sakyō Koizumi and Chūbei Tomioka" },
+            { "number": 6, "name": "The Wanderers of Hioki Shrine", "description": "Defeat the enemy troops" },
+            { "number": 7, "name": "The Demon Hanzō's Keen Senses", "description": "Hanzō Hattori must defeat all of the spy captains (must be Hanzō Hattori)" },
+            { "number": 8, "name": "Rescuing Tadatsugu Sakai", "description": "Defeat all of the peasant leaders" },
+            { "number": 9, "name": "The Allied Officers of the Western Garrison", "description": "Defeat Ukon Ieki, Daizen Funō and Masayasu Fujibayashi" },
+            { "number": 10, "name": "Kido of Otowa", "description": "Defeat Yazaemon Kido and all the rifle captains" }
+        ]
+    },
+    { 
+        "chapter": 6, 
+        "path": "Mitsuhide", 
+        "map": "The Incident at Honnōji", 
+        "image": "maps/6-mitsuhide-the-incident-at-honnoji.png", 
+        "recommendedCharacter": "Mitsuhide Akechi/Toshimitsu Saitō", 
+        "rareWeapon": "No", 
+        "objectives": [
+            { "number": 1, "name": "The Siege of Honnōji", "description": "Defeat the enemy troops" },
+            { "number": 2, "name": "The One to Slay Nobunaga Will Be...", "description": "Defeat Sandayū Momochi" },
+            { "number": 3, "name": "Holding the Line", "description": "Defeat Shinsuke Mōri and his allies" },
+            { "number": 4, "name": "Enduring Boldness", "description": "Defeat Nobunaga Oda" },
+            { "number": 5, "name": "Striking with All One's Might", "description": "Defeat Yasuke and his allies" },
+            { "number": 6, "name": "Fight until the Very Last", "description": "Defeat Mitsuki" },
+            { "number": 7, "name": "Explosive Gunpowder", "description": "Defeat all the cannon captains" },
+            { "number": 8, "name": "The Enemy of My Enemy Is Also My Enemy", "description": "Defeat all the spy captains" },
+            { "number": 9, "name": "No One Can Stop Me", "description": "Defeat Nobutada Oda and his allies" },
+            { "number": 10, "name": "A Sharpened Blade", "description": "Defeat Nobunaga Oda (must complete within 10-12 min of stage starting)" },
+            { "number": 11, "name": "Preparing for a New Era", "description": "Claim victory without allowing your allied officers to be defeated (recommnded to claim all barracks points and clear most enemies)" }
+        ]
+    },
+    { 
+        "chapter": 6, 
+        "path": "Mitsuhide", 
+        "map": "Battle of Yamazaki*", 
+        "image": "maps/6-mitsuhide-battle-of-yamazaki.png", 
+        "recommendedCharacter": "Mitsuhide Akechi/Mitsuki", 
+        "rareWeapon": "Sword + Matchlock", 
+        "objectives": [
+            { "number": 1, "name": "Striking Back", "description": "Hidenaga Hashiba, Kiyohide Nakagawa and Shigekore Kimura" },
+            { "number": 2, "name": "Advancing the Line", "description": "Work with Sadaoki Ise and his allies to defeat Kazuuji Nakamura and his allies" },
+            { "number": 3, "name": "Traversing the River", "description": "Stop Kanbei Kuroda and his allies from crossing Enmyoji River" },
+            { "number": 4, "name": "Head to the Main Camp", "description": "Defeat the enemy troops" },
+            { "number": 5, "name": "Kanbei's Strategy", "description": "Defeat Nagahide Niwa and his allies" },
+            { "number": 6, "name": "Kazuuji's Resolve", "description": "Defeat Kazuuji Nakamura and Hidetsugu Hashiba" },
+            { "number": 7, "name": "Thwarting the Raid", "description": "Defeat all the spear captains" },
+            { "number": 8, "name": "Challenge from Mt. Tennō", "description": "Defeat Tsuneoki Ikeda and Ukon Takayama" },
+            { "number": 9, "name": "Kitsuki's Resolve", "description": "Mitsuki must defeat Kazuuji Nakamura (must be Mitsuki)" },
+            { "number": 10, "name": "Breaking the Trigger", "description": "Defeat all the rifle captains" },
+            { "number": 11, "name": "The One Who Rules over the Land", "description": "Mitsuhide Akechi must defeat Hideyoshi Hashiba with a Musou Frenzy Attack (must be Mitsuhide Akechi)" },
+            { "number": 12, "name": "Revenge", "description": "Defeat Kanbei Kuroda" }
+        ]
+    },
+    { 
+        "chapter": 6, 
+        "path": "Mitsuhide", 
+        "map": "Battle of Yamazaki (Hasiba Army)*", 
+        "image": "maps/6-mitsuhide-battle-of-yamazaki-(hasiba-army).png", 
+        "recommendedCharacter": "Hideyoshi Hashiba/Kanbei Kuroda/Kazuuji Nakamura", 
+        "rareWeapon": "Naginata", 
+        "objectives": [
+            { "number": 1, "name": "Crossing the River", "description": "Defeat the enemy troops" },
+            { "number": 2, "name": "Capturing Mt. Tennō", "description": "Defeat Sadayuki Atsuji and Masachika Matsuda" },
+            { "number": 3, "name": "The Akechi Army Strikes", "description": "Defeat Toshimitsu Saitō, Katsusada Shibata and Kaneaki Mimaki" },
+            { "number": 4, "name": "A Loyal Retainer's Resolve", "description": "Defeat Toshimitsu Saitō t escape Shōryūji Castle" },
+            { "number": 5, "name": "Inferior Numbers", "description": "Prevent Hirotada Tsumaki and his allies from infiltrating the Hashiba Main Camp" },
+            { "number": 6, "name": "Turning the Tables", "description": "Defeat Toshimune Saitō and Sadaoki Ise" },
+            { "number": 7, "name": "The Last Barrier", "description": "Defeat Dengo Fuji, Mitsutada Akechi and Mitsuki" },
+            { "number": 8, "name": "Hiding in the Shadows", "description": "Defeat Shigetomo Mizoo and Sadatsura Shinji" },
+            { "number": 9, "name": "Precautionary Measure", "description": "Kanbei Kuroda must defeat Yasuie Namikawa and Morinao Suwa (must be Kanbei Kuroda)" },
+            { "number": 10, "name": "Raining Lead", "description": "Defeat all the rifle captains" },
+            { "number": 11, "name": "Traitor", "description": "Defeat Kiyohide Nakagawa and Ukon Takayama" },
+            { "number": 12, "name": "Division", "description": "Kazuuji Nakamura must defeat Mitsuki (must be Kazuuji Nakamura)" },
+            { "number": 13, "name": "Courage", "description": "Hideyoshi Hashiba must defeat Mitsuhide Akechi with a Musou Frenzy Attack (Must be Hideyoshi Hashiba)" }
+        ]
+    },
+    { 
+        "chapter": 1, 
+        "path": "Secret History Guide", 
+        "map": "Annihilation at Okehazana*", 
+        "image": "maps/1-secret-history-guide-annihilation-at-okehazana.png", 
+        "recommendedCharacter": "Yoshimoto Imagawa/Sena", 
+        "rareWeapon": "Sledge Hammer", 
+        "objectives": [
+            { "number": 1, "name": "Preparing to Counter", "description": "Defeat Hidetoshi Oda and Morishige Sakuma" },
+            { "number": 2, "name": "At the Top of the Okehazama Mountains", "description": "Defeat Katsuie Shibata and his allies" },
+            { "number": 3, "name": "Oda or Imagawa?", "description": "Defeat Toshiie Maeda and his allies" },
+            { "number": 4, "name": "Onwards to Kutsukake Castle", "description": "Defeat Kyōsuke Hasegawa and Tōhachi Sawaki" },
+            { "number": 5, "name": "A Fool's Errand", "description": "Defeat Hideyoshi Hashiba and his allies" },
+            { "number": 6, "name": "Readying the Defense", "description": "Escort supply soldiers to Dengakuhazama" },
+            { "number": 7, "name": "Who's in Charge?", "description": "Defeat Narimasa Sassa and Tsuneoki Ikeda" },
+            { "number": 8, "name": "To Die as a Fool", "description": "Yoshimoto Imagawa must defeat Nobunaga Oda with a Musou Frenzy Attack" },
+            { "number": 9, "name": "The Oda's Ambush", "description": "Defeat the enemy troops" }
+        ]
+    },
+    { 
+        "chapter": 1, 
+        "path": "Secret History Guide", 
+        "map": "Final Battle for Kanegasaki*", 
+        "image": "maps/1-secret-history-guide-final-battle-for-kanegasaki.png", 
+        "recommendedCharacter": "Nō/Nobunaga Oda", 
+        "rareWeapon": "Bow", 
+        "objectives": [
+            { "number": 1, "name": "Getting Out of Trouble", "description": "Defeat Kageakira Takahashi, Naozumi Magara and Yoshinobu Yamazaki" },
+            { "number": 2, "name": "Raid Preparations", "description": "Defeat Katsuie Shibata and Oichi" },
+            { "number": 3, "name": "All Eyes on Me", "description": "Defeat Kageakira Asakura and Nagashige Toda" },
+            { "number": 4, "name": "Showdown with Yoshikage", "description": "Defeat Yoshikage Asakura" },
+            { "number": 5, "name": "Slaying the Demon Shibata", "description": "Defeat Katsuie Shibata and the Azai Army officers" },
+            { "number": 6, "name": "Fleeing the Battlefield", "description": "Prevent Oichi and Nagamasa Azai from rendezvousing" },
+            { "number": 7, "name": "Rebellion at Odani Castle", "description": "Defeat Kagetsune Asakura and Kagetake Asakura" },
+            { "number": 8, "name": "Taking Advantage", "description": "Defeat the enemy troops" },
+            { "number": 9, "name": "From a Chrysalis", "description": "Nō must defeat Hidemura Hori and Masamoto Azai" },
+            { "number": 10, "name": "Toshiie in Trouble", "description": "Defeat Naotsune Endō" },
+            { "number": 11, "name": "The Butterfly Soars", "description": "Nō must defeat Magoichi Saika with a Cooperative Musou" },
+            { "number": 12, "name": "Hanbei's Brilliant Scheme", "description": "Protect the messengers" }
+        ]
+    },
+    { 
+        "chapter": 1, 
+        "path": "Secret History Guide", 
+        "map": "Match in Eiroku*", 
+        "image": "maps/1-secret-history-guide-match-in-eiroku.png", 
+        "recommendedCharacter": "Kenshin Uesugi/Magoichi Saika", 
+        "rareWeapon": "Cannon", 
+        "objectives": [
+            { "number": 1, "name": "A Little Test", "description": "Defeat the enemy troops!" },
+            { "number": 2, "name": "Caught Up", "description": "Defeat Tadakatsu Honda!" },
+            { "number": 3, "name": "Find The Ninja!", "description": "Defeat Motonobu Okabe and Yasuyoshi Asahina!" },
+            { "number": 4, "name": "Uninvited Guests", "description": "Defeat Sena and Hanzō Hattori to prevent Nobuyuki Oda and Katsuie Shibata from being taken out!" },
+            { "number": 5, "name": "Introducing the Vice-Shōgun", "description": "Defeat Hirotada Matsudaira and Masanari Naito! (can't be Motonari Mōri)" },
+            { "number": 6, "name": "Taking Care of the Vice-Shōgun", "description": "Defeat Katsuyori Takeda, Masakage Yamagata and Masanobu Kōsaka (can't be Shingen Takeda)" },
+            { "number": 7, "name": "An Audiencce with the Vice-Shōgun", "description": "Defeat Ieyasu Tokugawa, Hanzō Hattori and Tadakatsu Honda (can't be Yoshimoto Imagawa)" },
+            { "number": 8, "name": "To the Vice-Shōgun", "description": "Defeat Tomonobu Saitō and his allies (can't be Kenshin Uesugi)" },
+            { "number": 9, "name": "Battle Flow", "description": "Defeat Mitsuhide Akechi, Nagamasa Azai and Yoshikage Asakura in a row" },
+            { "number": 10, "name": "An Offering for the Shōgun", "description": "Defeat the thieves" },
+            { "number": 11, "name": "Self-Preservation", "description": "Defeat Mitsuhide Matsunaga without allowing Yoshiaki Ashikaga's healh dropping below 50 percent" },
+            { "number": 12, "name": "In The Heat of the Moment", "description": "Defeat the Miyoshi Triumvirate" },
+            { "number": 13, "name": "Unparalleled Power", "description": "Defeat enemy officers with a Musou Attack" }
+        ]
+    },
+    { 
+        "chapter": 1, 
+        "path": "Secret History Guide", 
+        "map": "Final Battle for Odani Castle*", 
+        "image": "maps/1-secret-history-guide-final-battle-for-odani-castle.png", 
+        "recommendedCharacter": "Nagamasa Azai/Katsuie Shibata/Oichi/Yoshikage Asakura", 
+        "rareWeapon": "Twin Blades", 
+        "objectives": [
+            { "number": 1, "name": "Raid on Kyōgokumaru", "description": "Defeat Hideyoshi Hashiba and Hanbei Takenaka" },
+            { "number": 2, "name": "The Oda's Arsonist", "description": "Defeat Sandayū Momochi" },
+            { "number": 3, "name": "Mitsuhide's Defeat", "description": "Defeat Mitsuhide Akechi" },
+            { "number": 4, "name": "Asakura Army", "description": "Defeat Hisahie Matsunaga and his allies" },
+            { "number": 5, "name": "Toshimitsu's Ambush", "description": "Defeat Toshimitsu Saitō and Ittetsu Inaba" },
+            { "number": 6, "name": "The Kōga Ninja's Ambush", "description": "Defeat Mitsuki and Kazuuji Nakamura" },
+            { "number": 7, "name": "Fighting with Fire", "description": "Defeat the fireball captains" },
+            { "number": 8, "name": "Spirit Rally", "description": "Oichi must defeat the enemy troops (must be Oichi)" },
+            { "number": 9, "name": "What Is Strength?", "description": "Yoshikagae Asakura must defeat Mitsuhide Akechi (must be Yoshikage Asakura)" },
+            { "number": 10, "name": "Against Toshiie", "description": "Katsuie Shibata must defeat Toshiie Maeda (must be Katsuie Shibata)" },
+            { "number": 11, "name": "Just Outside the Oda Main Camp", "description": "Defeat all the spear captains" },
+            { "number": 12, "name": "A Foe to Vanquish", "description": "Nagamasa Azai must defeat Nobunaga Oda with a Musou Attack (must be Nagamasa Azai)" },
+            { "number": 13, "name": "Azai Army Reinforcements", "description": "Defeat Narimasa Sassa and Morinari Andō" }
+        ]
+    },
+    { 
+        "chapter": 1, 
+        "path": "Secret History Guide", 
+        "map": "Final Battle for Kōzuki Castle*", 
+        "image": "maps/1-secret-history-guide-final-battle-for-kozuki-castle.png", 
+        "recommendedCharacter": "Shikanosuke Yamanaka/Kazuuji Nakamura", 
+        "rareWeapon": "Twin Blades", 
+        "objectives": [
+            { "number": 1, "name": "To the Castle", "description": "Defeat Motosuke Kunishi and Takakage Kobayakawa" },
+            { "number": 2, "name": "Dominace", "description": "Defeat the enemy troops" },
+            { "number": 3, "name": "To Save a Friend", "description": "Defeat all of the rifle captains" },
+            { "number": 4, "name": "Eyewitness", "description": "Defeat Hajime Watanabe and Narinaga Hayashi" },
+            { "number": 5, "name": "Trap", "description": "Defeat Terumoto Mōri and his allies" },
+            { "number": 6, "name": "Two Arrows", "description": "Defeat Motoharu Kikkawa and Takakage Kobayakawa" },
+            { "number": 7, "name": "The Amago's Bond", "description": "Defeat Michjiyoshi Kuchiba" },
+            { "number": 8, "name": "Death from Above", "description": "Defeat all the archer captains" },
+            { "number": 9, "name": "Vows Made under the Moon", "description": "Shikanosuke Yamanaka must defeat Motonari Mōri before Mitsuhide Akechi's health drops below 50 percent (must be Shikanosuke Yamanaka)" },
+            { "number": 10, "name": "Indomitable Spirit", "description": "Prevent Naoie Ukita and Tadaie Ukita from invading Kōzuki Castle" }
+        ]
+    },
+    { 
+        "chapter": 1, 
+        "path": "Secret History Guide", 
+        "map": "Nobuyasu's Rebellion", 
+        "image": "maps/1-secret-history-guide-nobuyasus-rebellion.png", 
+        "recommendedCharacter": "Ieyasu Tokugawa/Tadakatsu Honda", 
+        "rareWeapon": "No", 
+        "objectives": [
+            { "number": 1, "name": "Buying Time", "description": "Defeat the Takeda Army Soliders" },
+            { "number": 2, "name": "Bringing Momentum to the Takeda", "description": "Defeat Motonobu Okabe, Tomokiyo Imafuku and Yoshimasa Kiso" },
+            { "number": 3, "name": "Boiling Point", "description": "Prevent Katsuyori Takeda from approaching Nobuyasu Tokugawa" },
+            { "number": 4, "name": "Non-lethal Blow", "description": "Defeat Nobuyasu Tokugawa" },
+            { "number": 5, "name": "Get Serious!", "description": "Defeat Sena" },
+            { "number": 6, "name": "Sena's Wounds", "description": "Defeat Seibei Machii and his allies" },
+            { "number": 7, "name": "I Will Stop the Reinforcements!", "description": "Tadakatsu Honda must defeat Mitsukata Nagasaka (must be Tadakatsu Honda)" },
+            { "number": 8, "name": "Reinforcements from the Cliffs", "description": "Work with Tadakatsu Honda to defeat Mitsukata Nagasaka (can't be Tadakatsu Honda)" },
+            { "number": 9, "name": "I'll Protect Her!", "description": "Achieve victory while keeping Sena's health above 50 percent (must be Ieyasu Tokugawa)" },
+            { "number": 10, "name": "A Tokugawa Retainer", "description": "Defeat Chūbei Tomioka (do not defeat Yasutada Matsudaria)" },
+            { "number": 11, "name": "Reluctant Conquest", "description": "Defeat Kazumasa Ishikawa and Tadatsugu Ina" }
+        ]
+    },
+    { 
+        "chapter": 1, 
+        "path": "Secret History Guide", 
+        "map": "The Iga's Great Uprising*", 
+        "image": "maps/1-secret-history-guide-the-igas-great-uprising.png", 
+        "recommendedCharacter": "Sandyū Momochi", 
+        "rareWeapon": "Kusarigama", 
+        "objectives": [
+            { "number": 1, "name": "Capturing Maruyama Castle", "description": "Defeat Toshimitsu Saitō and Hidemitsu Akechi" },
+            { "number": 2, "name": "Capturing Hijiyama Castle", "description": "Defeat Nagahide Niwa and Kazumasu Takigawa" },
+            { "number": 3, "name": "Unmasking the Illusion", "description": "Defeat Mitsuki" },
+            { "number": 4, "name": "Kazuuji's Ambush", "description": "Defeat Kazuuji Nakamura and his allies" },
+            { "number": 5, "name": "Defeat Mitsuhide!", "description": "Defeat Mitsuhide Akechi" },
+            { "number": 6, "name": "Opening the Maruyama Castle Gates", "description": "Escort the fireball squadron to the construction point without defeating the Maruyama Castle Gatkeeper Captain" },
+            { "number": 7, "name": "Opening Hijiyama Castle Gates", "description": "Defeat the surrounding enemy troops without defeating the Hijiyama Caste Gatekeeper Captain" },
+            { "number": 8, "name": "A Ninja Provokes", "description": "Defeat Tsuneoki Ikeda, Yoritaka Hachiya and Nagamasa Asano" },
+            { "number": 9, "name": "Hometown Showdown", "description": "Defeat Hanzō Hattori" },
+            { "number": 10, "name": "Nemesis", "description": "Defeat Nobunaga Oda (follow Nemesis guide in the top for this objective)" }
+        ]
+    },
+    { 
+        "chapter": 1, 
+        "path": "Secret History Guide", 
+        "map": "The Truth of Honnōji", 
+        "image": "maps/1-secret-history-guide-the-truth-of-honnoji.png", 
+        "recommendedCharacter": "Nobunaga Oda", 
+        "rareWeapon": "No", 
+        "objectives": [
+            { "number": 1, "name": "Clash of the Three Titans", "description": "Defeat Yoshimoto Imagawa, Kenshin Uesugi and Shingen Takeda" },
+            { "number": 2, "name": "Defending the Central Bridge", "description": "Stop Motonobu Okabe and his allies" },
+            { "number": 3, "name": "Alliances", "description": "Rendezvous with Mitsuhide Akechi" },
+            { "number": 4, "name": "Gathering at Honnōji", "description": "Defeat Tomonobu Saitō and his allies" },
+            { "number": 5, "name": "Escaping Certain Death", "description": "Defeat the enemy troops" },
+            { "number": 6, "name": "The Three Titans Do Battle", "description": "Defeat Yoshimoto Imagawa, Kenshin Uesugi and Shingen Takeda" },
+            { "number": 7, "name": "Chasing Shadows", "description": "Find and defeat the spy captains" },
+            { "number": 8, "name": "Battle of Bonds", "description": "Defeat Shigenaga Honjō and his allies" },
+            { "number": 9, "name": "Escaping the Rain", "description": "Defeat all of the archer captains" },
+            { "number": 10, "name": "A Demon's Efforts", "description": "Defeat the enemy troops with a Musou Attack" },
+            { "number": 11, "name": "The Takeda Cavalry Charges Forth", "description": "Defeat the Takeda Cavalry, Katsuyori Takeda and his allies" }
+        ]
+    },
+    {
+        "chapter": 1,
+        "path": "Secret History Guide",
+        "map": "The Great Unifier*",
+        "image": "maps/1-secret-history-guide-the-great-unifier.png",
+        "recommendedCharacter": "Nobunaga Oda/Mitsuhide Akechi",
+        "rareWeapon": "Sword + Matchlock", 
+        "objectives": [
+            { "number": 1, "name": "Hideyoshi in Peril", "description": "Defeat Motoyasu Mōri and his allies" },
+            { "number": 2, "name": "The Shōgun's Shield", "description": "Defeat Fujihide Mitsubuchi and his allies" },
+            { "number": 3, "name": "The Battle Begins", "description": "Defeat Motoharu Kikkawa and his allies" },
+            { "number": 4, "name": "An Unexpected Development", "description": "Defeat Hanroku Otowa, Shōgen Fukukita and Daizen Funō" },
+            { "number": 5, "name": "The Mōri's Aggression", "description": "Defeat enemy troops" },
+            { "number": 6, "name": "No Mercy for Imposters", "description": "Defeat the fake Ieyasu Tokugawa and his allies" },
+            { "number": 7, "name": "Oda's Greatest Weapon", "description": "Defeat Magoichi Saika and his allies" },
+            { "number": 8, "name": "Recapturing Shōryūji Castle", "description": "Defeat Hajime Watanabe and his allies" },
+            { "number": 9, "name": "The Iga's Shadow", "description": "Prevent Chūbei Tomioka and Masayasu Fujibayashi from approaching Hideyoshi Hashiba (recommended to complete this one before any other objectives)" },
+            { "number": 10, "name": "The Saika Mercenaries' Target", "description": "Defeat Magoichi Saika" },
+            { "number": 11, "name": "The Riflemen's Garrison", "description": "Defeat Magoroku Saika and Yosaburō Saika" },
+            { "number": 12, "name": "A Key Location", "description": "Defeat Terumoto Mōri, Takai Shichido and Nobunao Kumagai" },
+            { "number": 13, "name": "Time to Settle the Score", "description": "Defeat Takakage Kobayakawa and Sandyū Momochi with Musou Attacks (must be Nobunaga Oda and cleared all other objectives)" },
+            { "number": 14, "name": "The Ghosts of Aki", "description": "Defeat Motonari Mōri" }
+        ]
+    }
 ]
