@@ -20,8 +20,6 @@ function generateMapHTML(mapsData) {
     resultItem.setAttribute("data-map", map.map);
     resultItem.setAttribute("data-weapon", map.rareWeapon);
 
-    console.log("ObjectivesList:", objectivesList);
-
     resultItem.innerHTML = `
       <div class="thumbnail-container">
         <img src="${map.image}" alt="Mapa ${map.map}" class="map-thumbnail" onclick="openModal('${map.image}', '${map.map}', this.closest('.result-item').querySelector('hidden-objectives'))">
@@ -89,7 +87,7 @@ function openModal(imageSrc, captionText, objectivesList) {
     const modalImage = document.getElementById("modal-image");
     const caption = document.getElementById("caption");
     const objectives = document.getElementById("objectives");
-
+    console.log("ObjectivesList:", objectivesList);
     footer.classList.toggle('hidden');
     modal.style.display = "block";
     modalImage.src = imageSrc;
