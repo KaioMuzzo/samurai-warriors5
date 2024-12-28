@@ -73,7 +73,8 @@ function filterResults() {
         const pathMatch = pathFilter === "" || path === pathFilter;
         const mapMatch = mapFilter === "" || map === mapFilter;
         //const weaponMatch = rareWeaponFilter === "" || weapon === rareWeaponFilter;
-
+        console.log("caminho do card", path);
+        console.log("caminho do filtro", pathFilter);
         if (chapterMatch && pathMatch && mapMatch) {
             result.style.display = 'block';
         } else {
