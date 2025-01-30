@@ -1,3 +1,5 @@
+const menuContainer = document.getElementById('menu-container');
+
 fetch('./maps.json')
   .then(response => response.json())
   .then(mapsData => {
@@ -47,9 +49,12 @@ function generateMapHTML(mapsData) {
   });
 }
 
-function toggleFilters() {
-    const filterSection = document.querySelector('.filter-section');
-    filterSection.style.display = filterSection.style.display === 'block' ? 'none' : 'block';
+function openMenu() {
+  menuContainer.classList.add("open");
+}
+
+function closeMenu() {
+  menuContainer.classList.remove("open");
 }
 
 function filterResults() {
